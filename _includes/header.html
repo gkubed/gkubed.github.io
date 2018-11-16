@@ -3,7 +3,6 @@
         <button id="menu-toggle" class="menu-toggle" aria-expanded="false"><span class="icon-menu" aria-hidden="true"></span> Menu</button>
         <div id="nav-menu" class="nav-menu">
             <ul class="menu">
-              <img src="images/littlelogo.png" />
             {% for link in site.navigation %}
                 {% assign current = nil %}
                 {% if page.url == link.url %}
