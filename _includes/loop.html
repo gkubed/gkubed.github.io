@@ -11,8 +11,7 @@
       </div><!-- .entry-meta -->
     </header><!-- .entry-header -->
     <div class="entry-content">
-      {% if post.content contains '
-      <!--more-->' %}
+      {% if post.content contains '<!--more-->' %}
       {{ post.content | split:'<!--more-->' | first }}
       <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="more-link">Read More</a></p>
       {% else %}
