@@ -32,7 +32,7 @@ When you walk up to the car in person, it's overwhelmingly purple. Everyone, mys
 
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/46923468991/in/album-72157689234872603/" imageurl="https://s3.amazonaws.com/gkubed/2019-02-02-capturing-mso-mauvine-blue/_MG_8218-1200.jpg" title="" caption="" %}
 
-Long before the McLaren 720S was a thing, and even a bit before the first automobile, the 18 year old William Henry Perkin was one a quest to find a method to treat malaria. While trying to perform [quinine total synthesis](https://en.wikipedia.org/wiki/Quinine_total_synthesis), he accidentally produced an intense purple dye. Having been dabbling in painting and photography for years, he knew he had come upon an amazing discovery - the first synthetic dye. He called it *mauveine*.
+Long before the McLaren 720S was a thing, and even a bit before the first automobile, the 18 year old William Henry Perkin was on a quest to find a method to treat malaria. While trying to perform [quinine total synthesis](https://en.wikipedia.org/wiki/Quinine_total_synthesis), he accidentally produced an intense purple dye. Having been dabbling in painting and photography for years, he knew he had come upon an amazing discovery - the first synthetic dye. He called it *mauveine*.
 
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/31982328737/in/album-72157689234872603/" imageurl="https://s3.amazonaws.com/gkubed/2019-02-02-capturing-mso-mauvine-blue/_MG_8211-1200.jpg" title="" caption="" %}
 
