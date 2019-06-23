@@ -1,8 +1,8 @@
 <figure class="full-width">
   {% if include.url %}
-  <a href="{{ include.url }}">
+  <a href="{{ include.url }}" target="_blank">
     {% endif %}
-    <img src="{{ include.imageurl }}" alt="{{ include.caption }}" />
+    <img src="{{ include.imageurl }}" alt="{{ include.caption }}"/>
     {% if include.caption %}
     <figcaption class="caption-text">{{ include.caption }}</figcaption>
     {% endif %}
