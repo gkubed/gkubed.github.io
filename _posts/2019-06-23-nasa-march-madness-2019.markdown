@@ -6,25 +6,23 @@ featured_image: gti-tcr.jpg
 tags: [Cars, HPDE, NASA, Racing, VIR, Virginia International Raceway]
 ---
 
-Ever since I participated in HPDE1 in August of 2016 at VIR, the itch to get my FR-S back on the track has always needed a good scratch. Unsurprisingly, getting on track is expensive, and since I'm a borderline frugal person, this means that I don't get to hit the track every month. When I reached out to my local NASA chapter (the race people, not the space people) about signing up for last year's OktoberFast event at Summit Point, I was informed about the worker program. Briefly put, I've been working for NASA to earn race credits ever since.
+Ever since I participated in HPDE1 at the August 2016 event at VIR, I've had the itch to get my FR-S back on track. Unsurprisingly, getting on track is expensive, and since I'm a borderline frugal person, this means that I don't get to hit the track every month. When I reached out to my local NASA chapter (the race people, not the space people) about signing up for last year's OktoberFast event at Summit Point, I was informed about the worker program, where you can earn race credit by working for NASA. I've been taking advantage of this opportunity ever since.
 
 <!--more-->
 
-
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100553937/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9204-1200.jpg" title="" caption="" %}
 
-NASA is a well oiled machine. Cars go out the same time cars come in. Dozens of workers do their parts in orchestra like little cogs in a mechanical watch. Any break in function could cause delays in the track schedule or even a safety issue.
+NASA is a well oiled machine. Cars exit the grid onto the track at same time cars come in from their session. Dozens of workers play their parts in orchestra like little cogs in a mechanical watch. Any break in function could cause delays in the track schedule or even a safety issue.
 
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100455871/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9079-1200.jpg" title="" caption="" %}
 
 While there's plenty of responsibility involved, I still have a blast, even though I'm working. I love the atmosphere: the sounds of engines rumbling and exhausts roaring (or in Spec Miata's case, buzzing), the smell of race fuel, the sight of cars where form follows function, and best of all, the community.
 
-
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100460331/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9335-1200.jpg" title="" caption="" %}
 
-Working all through the day means that my camera stays secured in my car and out of my hands for the overwhelming majority of the time that cars are on track. That's probably just fine, given that none of my lenses are really ideal for panning shots from afar.
+Working all through the day means that my camera stays secured in my car and out of my hands for the overwhelming majority of the time that cars are on track. That's fine with me since none of my lenses are really ideal for panning shots from the distant spectator zones.
 
-My camera emerged in the paddock not long before sundown Saturday evening, and I set out to capture what I could.
+My camera emerged from my bag in the paddock not long before sundown Saturday evening, and I set out to capture what I could.
 
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100558542/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9351-1200.jpg" title="" caption="" %}
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100558182/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9362-1200.jpg" title="" caption="" %}
@@ -51,7 +49,7 @@ Not long after I began my photographic journey, my friend and fellow NASA worker
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100453421/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9300-1200.jpg" title="" caption="" %}
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100553177/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9273-1200.jpg" title="" caption="" %}
 
-Upon concluding our session with the race car, we reused the perfect canvas to shoot our own personal cars - my own Ultramarine Scion FR-S, and Jack's Techno Violet BMW E36 M3.
+Upon concluding our session with the race car, we reused the perfect canvas to shoot our own personal cars - my Ultramarine Scion FR-S, and Jack's Techno Violet BMW E36 M3.
 
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100457896/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9386-1200.jpg" title="" caption="" %}
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100457251/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9403-1200.jpg" title="" caption="" %}
@@ -67,7 +65,7 @@ Most of NASA turns in early in order for their minds and bodies to be refreshed 
 
 {% include image_full.html url="https://www.flickr.com/photos/toadsy/48100556222/in/album-72157709181793248/" imageurl="https://gkubed.s3.amazonaws.com/2019-06-23-nasa-march-madness-2019/_MG_9457-1200.jpg" title="" caption="" %}
 
-Sunday came and went quickly. By the time the last session ends, half of the paddock is empty, so I took no more photos. Many attendees travel across multiple states to round the concrete playground for the weekend. Until next time, VIR.
+Sunday came and went quickly. Many attendees travel across multiple states to round the concrete playground for the weekend, so by the time the last session ends, half of the paddock is empty, and another NASA event is in the books. Until next time, VIR.
 
 # Bonus Photos
 
