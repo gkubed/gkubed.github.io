@@ -3,7 +3,7 @@ layout: post
 title: "Capturing MSO Mauvine Blue"
 date: "2019-02-02 12:02:31 -0500"
 featured_image: 720s-sideshot.jpg
-tags: [Cars, McLaren, 720S, MSO, Paint]
+tags: [Cars, McLaren, 720S, MSO, Paint, Cars and Coffee, Richmond Virginia]
 ---
 
 It's hard to describe why I'm not a huge supercar person. It's not that I don't respect them—they will continue to make me turn my head, and I'll always point them out, but, given the choice between a $100,000 car and a $20,000 car with $80,000 worth of work done to it, I will almost certainly prefer the latter. Maybe I'm too set in my ways, or maybe I'm just plain wrong, but that's just how Guyon typically operates. Seeing the latest exotic model is always a little special the first time, but I grow bored knowing that there are others like it.
