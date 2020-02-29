@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Special Feature: Ruby and I Got Married!"
-date: "2020-02-13 16:37:21 -0500"
+date: "2020-02-29 10:51:21 -0500"
 featured_image: wedding.jpg
 ---
 
