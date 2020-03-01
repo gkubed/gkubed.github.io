@@ -3,6 +3,7 @@ layout: post
 title: "Special Feature: Ruby and I Got Married!"
 date: "2020-02-29 10:51:21 -0500"
 featured_image: wedding.jpg
+tags: [Marriage, Wedding, Ruby, Special Feature]
 ---
 
 *All photography featured in this post is the excellent work of [Michelle Joy Photography](https://michellejoyphoto.com/).*
