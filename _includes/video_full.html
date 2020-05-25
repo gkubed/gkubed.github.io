@@ -1,0 +1,11 @@
+<figure class="full-width">
+    <video controls width="1200">
+      <source src="{{ include.videourl }}"
+              type="video/mp4">
+
+              Sorry, your browser does not support embedded videos.
+    </video>
+    {% if include.caption %}
+    <figcaption class="caption-text">{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>
