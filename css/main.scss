@@ -361,35 +361,6 @@ ul.search-results {
     text-decoration: none;
 }
 
-.share-post {
-    margin-top: 24px;
-    a {
-        border-radius: 2px;
-        color: #fff;
-        display: inline-block;
-        height: 28px;
-        line-height: 2;
-        margin-left: 5px;
-        text-align: center;
-        width: 28px;
-        &:hover {
-            background-color: #aeb0b1;
-        }
-    }
-}
-
-.share-post .btn-twitter {
-    background-color: #55acee;
-}
-
-.share-post .btn-facebook {
-    background-color: #3b5998;
-}
-
-.share-post .btn-google {
-    background-color: #dd4b39;
-}
-
 .read-more {
     clear: both;
     display: block;
