@@ -25,13 +25,13 @@ Getting used to driving on the left hand side of the road was pretty easy. It ju
 
 Ruby took some photos on the way. As we reached Soufriere, we stopped at a scenic overlook toward the town and the beach. We talked to another tourist that was also driving a Jimny. He was on a sailing trip, and had been on Saint Lucia a few days already. He kindly took our picture.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_163229-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_163229-1200.jpg" title="" caption="" %}
 
 We made it through Soufriere successfully after getting a little lost because we continued past our turn and proceeded along the main road up the mountain instead of hanging left at the Hummingbird Resort.
 
 We pulled close to La Batterie (our first AirBnB) when Terry, the gardener, spotted us and asked where we were headed. He helped us inside the compound and Stephanie, the house manager, showed us around. Although the sun had already gone down, the Pitons were still visible. During our little tour, La Batterie seemed to just go forever. We were shown three of the four bedrooms, but of course we only used the one whose doors opened up to a spectacular perspective of the Pitons. There was a big wow-factor to this place, which is what I was going for. I spoil her. She kept looking back at me like "you're too much", which is what I go for.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_153523-1200.jpg" title="" caption="Ruby in the courtyard of our AirBnB" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_153523-1200.jpg" title="" caption="Ruby in the courtyard of our AirBnB" %}
 
 Stephanie had prepared us both chicken rotis with salad and fried plantains. The roti consisted of potato and chicken curry wrapped in a crispy tortilla - a staple Caribbean dish.
 
@@ -43,13 +43,13 @@ After our time in the pool, we showered, and set out to try some of the fresh fr
 
 We uncurled the mosquito net, shut the doors, and went to sleep.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_180421-1200.jpg" title="" caption="Our housekeeper made our bedroom super cute." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_180421-1200.jpg" title="" caption="Our housekeeper made our bedroom super cute." %}
 
 # Day 2: Tuesday, November 19 - Enjoying La Batterie and Some Light Exploration.
 
 No alarm clock this morning. After we woke up, I opened the doors to our bedroom with Ruby still in bed. It was beautiful - like a painting. Our room overlooked Soufriere Bay and both the Pitons. There were no other villas visible on our side of the bay from our balcony, which meant total privacy.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_065127-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_065127-1200.jpg" title="" caption="" %}
 
 We ate a delicious breakfast of bacon and eggs on toast, prepared in our kitchen. It was just us, the birds, and the geckos.
 
@@ -71,7 +71,7 @@ When we returned to the Jimny, we were delighted that the person "protecting our
 
 Instead of going straight home, we headed further north to explore. This took us through Canaries and up into Anse La Raye. Going all the way to Castries was debated, but we determined it would be better to save that for another day where we could dedicate more time to it, so we turned around.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_135445-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_135445-1200.jpg" title="" caption="" %}
 
 When we were almost back to Soufriere, Ruby spotted a sign that said something about a parrot sanctuary. I turned the car around so that we could investigate.
 
@@ -89,7 +89,7 @@ I became a little concerned that we were without a dinner in a country where I w
 
 Ruby and I prepared a table on the balcony and dug into our second sampling of rotis on the island. This time they were beef based, and served alongside a side of scallop potatoes (YUM).
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_183736-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_183736-1200.jpg" title="" caption="" %}
 
 Unsure of what to do at night at the villa, we moved some [heavy] furniture around to put a couch in front of the oddly placed TV in the dining room to watch the first Pirates of the Caribbean movie. One of the first scenes was shot just up the coast in Marigot Bay.
 
@@ -99,11 +99,11 @@ Not wanting to bother the house staff, we put the furniture back before going to
 
 We awoke this morning by alarm at 7AM in order to get ready for our rainforest tour led by Terry, our gardener. We made a quick, delicious breakfast consisting of a bacon, egg, and cheese sandwich with pineapple.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-3-breakfast-1200.jpg" title="" caption="Feeding ourselves - and the birds" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-3-breakfast-1200.jpg" title="" caption="Feeding ourselves - and the birds" %}
 
 After filling ourselves, we enjoyed watching the local animals battle over our leftovers.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/breakfast-show.mov" caption="" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/breakfast-show.mov" caption="" %}
 
 Terry arrived at La Batterie not long after 8 to take us out. We hopped in the Jimny and headed through Soufriere and onto the rainforest, which greeted us with rain and forest.
 
@@ -111,29 +111,29 @@ Some portions of the drive up the mountain were pretty remote. Roads were unpave
 
 We stopped high up in the mountains to look down on Soufriere and the Pitons.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_091041-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_091041-1200.jpg" title="" caption="" %}
 
 We turned around and went back down the sketchy road towards a farm where we would begin our hike.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/jimny-downhill-drive.mov" caption="Ruby recorded this portion of our return trip. I really didn't want to do any damage to our rental!" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/jimny-downhill-drive.mov" caption="Ruby recorded this portion of our return trip. I really didn't want to do any damage to our rental!" %}
 
 We arrived at the farm, and got out. Walking sticks were ready for us on the right of where we parked. Terry led us in, and two young men who were working told Terry that it would cost $10 USD to get a tour of the farm. Fair enough.
 
 Before checking out the farm itself, we went on a little hike to an overlook. Along the way, Terry showed us various plants of interest — frankincense, myrrh, cinnamon, nutmeg, and more.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_102733-1200.jpg" title="" caption="Palm trees create a canopy almost everywhere in the rainforest" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_102733-1200.jpg" title="" caption="Palm trees create a canopy almost everywhere in the rainforest" %}
 
 At some point, we arrived at a bench that overlooked the mountains to our east, with Mount Gimie to our north. Terry explained how 40 years ago a plane carrying six tourists hit the other side of the mountain, and nobody survived. He also told us about how people would go deep into the forest and plant marijuana.
 
 We made our way back down to the farm. Terry had us pick things. They had a few bunnies and guinea pigs in cages to produce manure. The owner of the farm, a relatively young man, met us. I gave him the $20 and he took us over to pick our own carrots and peanuts while Terry used the restroom.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_095242-1200.jpg" title="" caption="View west of the Pitons and the farm that we visited" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_095242-1200.jpg" title="" caption="View west of the Pitons and the farm that we visited" %}
 
 There were some blue doves in cages that we saw on the way out. We made our trip down the mountains, stopping briefly at Terry's house so he could grab his backpack.
 
 We did stop at the Toraille waterfall on our way back to Soufriere. It was a definite tourist trap. Many busses were outside bringing hoards of foreigners to the falls, presumably from the resorts in Castries.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_114704-1200.jpg" title="" caption="Toraille Falls" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_114704-1200.jpg" title="" caption="Toraille Falls" %}
 
 On our way in, we spoke to some of the vendors out front. Ruby and I bought fried bread (kinda like a donut) for $1 USD and coconut bread for $1 USD and split them. Both were very good!
 
@@ -181,13 +181,13 @@ On our way out, we stopped at the gift shop and picked up a $10 USD bar of choco
 
 It was nearing 3 PM, so we started heading towards our next AirBnB.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_113241-1200.jpg" title="" caption="Balenbouche Estate" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_113241-1200.jpg" title="" caption="Balenbouche Estate" %}
 
 We arrived a little early, and headed into the main plantation home. We were greeted by many dogs, all of which were rescued strays on the island. They appeared as if they could all be siblings. They were good dogs.
 
 Verena, the daughter of Uta, who runs the estate, met us and led us to our cottage to give us a tour. The Waterlilly Cottage is one of a few AirBnBs on site, and is a small bungalow shaped like an octagon with a bedroom in the middle.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-4-collage-1200.jpg" title="" caption="Ruby posing with the Jimny, Ruby at lunch, and Ruby in front of the Waterlilly Cottage" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-4-collage-1200.jpg" title="" caption="Ruby posing with the Jimny, Ruby at lunch, and Ruby in front of the Waterlilly Cottage" %}
 
 Verena is soft spoken, and gives off a very earthy vibe.
 
@@ -205,7 +205,7 @@ We resorted to collecting beautiful shells and whatever trash would wash ashore.
 
 We were delayed a bit in our return by a bull that stood in the middle of our path. Once we got around him, we made the short trek back to our cottage. By the time we got there, my legs were extremely itchy from the bugs in the field Showering felt great.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/waterlilly-cottage.mov" caption="Tour de Waterlilly Cottage" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/waterlilly-cottage.mov" caption="Tour de Waterlilly Cottage" %}
 
 Dinner was at 7:30, so we took a nap to make the time pass. Ruby intelligently requested I set an alarm, which woke us up at 7:15. We turned on some lights and got ready.
 
@@ -221,7 +221,7 @@ I watched as a rodent of some variety scurried down the tree. It was probably a 
 
 At this point, the realities of getting an open-air bungalow in the rainforest were settling in. This was reinforced later that night by the adult cockroach I found on my backpack as I was carrying it to the bathroom, and the other similarly sized one that guarded our bar of soap.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191121_201042-1200.jpg" title="" caption="Despite having some run-ins with creepy crawlies, we were happy to be where we were." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191121_201042-1200.jpg" title="" caption="Despite having some run-ins with creepy crawlies, we were happy to be where we were." %}
 
 While at the plantation, I connected to the Wi-Fi, downloaded Netflix onto my phone, logged in as Ruby's uncle, and downloaded Birdbox to watch offline (there is no Wi-Fi in the cottages). After returning to our bungalow and killing a couple cockroaches, we climbed into bed behind the protection of our mosquito net, and watched the movie on my phone.
 
@@ -233,19 +233,19 @@ I woke up and recorded yesterday's account on my phone before we ventured out to
 
 We headed south, through Laborie and on to Vieux Fort. Verena had given us directions at dinner the night before. Upon arrival, we were actually pretty relieved that the supermarket was fairly similar to what we would have at home, albeit smaller. We grabbed breakfast, lunch, and dinner foods. We opted to get the same boxed milk imported from France and bacon imported from Barbados that Stephanie had bought for us when we stayed at La Batterie.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_104531-1200.jpg" title="" caption="Our first grocery trip being married!" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_104531-1200.jpg" title="" caption="Our first grocery trip being married!" %}
 
 Upon checkout, our total rang up to $159.66 EC, or $59.13 USD. Unfortunately for us, we walked in with $57 in USD and maybe $1.75 in EC. We briefly discussed what we could put back (as we were some odd $1.50 USD short), but a kind man behind us gave is a $5 EC note to get us by. At first I refused, but he insisted that I take it, so I did. I gave him all of the change we got back and thanked him again.
 
 It's the little things.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_115520-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_115520-1200.jpg" title="" caption="" %}
 
 We made our way back to the Waterlilly Cottage and made brunch — egg and turkey sandwiches with a side of quartered grapefruit.
 
 We set off to hike the Tet Paul trail. It was a short drive north, and on the same side road as the Fond Doux Plantation, but instead of going there, you hang a left before the gate and take a windy road up the mountain.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-nature-trail-sign-and-doggy-1200.jpg" title="" caption="Saint Lucia has stray dogs just like this one everywhere. Petting them is a bad idea...but they're so sweet!" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-nature-trail-sign-and-doggy-1200.jpg" title="" caption="Saint Lucia has stray dogs just like this one everywhere. Petting them is a bad idea...but they're so sweet!" %}
 
 Tet Paul is at the end of the road. It was $10 US a person, and I paid with my VISA card because I was trying to conserve my cash. We went without a guide, which would have been extra.
 
@@ -253,7 +253,7 @@ The nature trail was beautifully maintained and provided us some of the best vie
 
 There was a rain storm on the southern tip of the island. I was surprised that despite being able to see Saint Vincent and the Grenadines from La Batterie, I was unable to see it from this higher vantage point [*I'm pretty sure it was behind Gros Piton*].
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-view.mov" caption="" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-view.mov" caption="" %}
 
 We left Tet Paul Trail feeling that our money was well spent, and headed off to the "drive through volcano" and sulfur springs.
 
@@ -261,13 +261,13 @@ Finding our way was not too hard, as it was just up the street and on our first 
 
 We drove along the road across the collapsed volcano and were directed to immediately park. Lo and behold, we parked right behind another Jimny in the same color! It looked as though it were a bit newer, and was driven by a couple that appeared to be 30-40 years older than us. I won't pretend like I didn't have some envy. Suddenly our little Jimny had been downgraded from perfect to almost perfect in my mind.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_144701-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_144701-1200.jpg" title="" caption="" %}
 
 It wasn't much of a drive through, but I cannot complain. We got out and were assigned a tour guide, Marianna, to show us the collapsed volcano and answer our questions.
 
 There was no visible lava or anything like I had seen at the volcano in Nicaragua, but there were dark pools of water boiling and shooting water high into the air. We were told that tourists used to be able to actually walk on the surface of the collapsed volcano, where they could boil eggs very quickly. This all came to an end (in the 80's?) when a tour guide, Gabriel, jumped up and down to demonstrate to his group how firm the ground was. It wasn't, and Gabriel collapsed the ground beneath him and was submerged up to his waist, obtaining second degree burns, but was thankfully quickly pulled out. He has retired from giving tours and is now a fisherman in Castries, according to Marianna.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/sulfur-springs-volcano.mov" caption="Anyone want to take a swim in Gabriel's hole?" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/sulfur-springs-volcano.mov" caption="Anyone want to take a swim in Gabriel's hole?" %}
 
 Thus, the closest boiling water pit to where we were was dubbed Gabriel's hole, the only manmade one there.
 
@@ -283,7 +283,7 @@ We got out and were given a bucket of light grey mud. We took turns covering eac
 
 We were given a second bucket with darker mud, and were able to dip our hands in so we could paint on each other. Ruby drew a bird on my back, and I made her into an adorable kitty (if you squint).
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/mud-baths-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/mud-baths-1200.jpg" title="" caption="" %}
 
 We dipped into another pool, which was thankfully a bit cooler, and washed all of the mud off. I haven't felt so smooth in my life. The guides made many claims about the healing nature of the sulfur springs on your skin, and how breathing it in was healthy. I'm always a skeptic when it comes to armchair prescriptions, but, at the very least, the mud was very exfoliating!
 
@@ -291,13 +291,13 @@ With still some daylight to burn, we headed north (downstream from the sulfur sp
 
 We took a quicker pace than we normally would so that we could make it to the falls, but still stopped to take some pictures on the way.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-botanical-gardens-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-botanical-gardens-1200.jpg" title="" caption="" %}
 
 The waterfall was actually really beautiful! Ruby joked how yesterday's proposal would have been much better done here — completely alone, at a bigger, more beautiful waterfall, and the sign even says Diamond Falls!
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_164802-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_164802-1200.jpg" title="" caption="" %}
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-falls.mov" caption="Will you marry me...again?" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-falls.mov" caption="Will you marry me...again?" %}
 
 We made it out shortly after 5PM after checking out their composting setup and the fountain. Even though we didn't get to spend too much time at the Botanical Gardens, we were very impressed with them. Highly recommended.
 
@@ -323,11 +323,11 @@ We slept in pretty late, and I recorded the previous day's account.
 
 We began the day making our typical breakfast of eggs and bacon on toast, and prepared for our day. We freed a leafy green grasshopper that was stuck in a window all night.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_100833-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_100833-1200.jpg" title="" caption="" %}
 
 We planned on going to Sugar Beach, but after speaking with Verena in the morning, we were dissuaded and decided to go to Anse Ivrogne instead. We also discussed doing our laundry.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/ruby-drives-the-jimny.mov" caption="Ruby wanted to try out the Jimny. Could you blame her?" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/ruby-drives-the-jimny.mov" caption="Ruby wanted to try out the Jimny. Could you blame her?" %}
 
 We packed a lunch and headed north. We accidentally missed our turn in Choiseul to follow the coastal road, and continued past the series of hairpin turns to turn around at the Jean-Baptiste Batik studio we had tried to stop at on Thursday (and again on Friday, but it was seemingly closed).
 
@@ -335,8 +335,8 @@ For the first time, the door and windows were open. We parked and made our way t
 
 We were actually very impressed with the Batik pieces. Each piece could take the artist as much as a month to prepare. For the first time on the island, we came across artwork that Ruby would consider technically proficient. Dennis tried to sell us a piece, but we simply did not have the cash on hand (or the drive to use it) to afford such pieces. They were more than fairly priced. We were not sure Dennis was really all there. It always felt a bit like he was speaking to a fourth person in the room that wasn't actually there.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113051-1200.jpg" title="" caption="" %}
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113056-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113051-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113056-1200.jpg" title="" caption="" %}
 
 We got back in our rental Jimny and turned on the road we intended to the first time, and went along the coast on a windy road until eventually we reached an overlook with a restaurant on the top called The View. There was a small rocky road from here that led to the beach. The first turn was pretty intimidating, but the surrounding billy goats showed their support.
 
@@ -346,7 +346,7 @@ We made our way to the beach and saw a few locals, and also saw that the coast w
 
 We talked to two friendly locals who directed us to swim a little further because it was nicer (less lion fish and sea urchins). We began to settle under a tree when one of those friendly locals came by to tell us to not sit under that tree because the falling (and poisonous) almonds from it could be a bit unpleasant. We moved to the shade of the safer adjacent tree and put on our sunscreen and enjoyed the view.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_120928-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_120928-1200.jpg" title="" caption="" %}
 
 One fisherman came by with a 5 gallon bucket with colorful fish inside, and used as colorful language to describe his dissatisfaction with the day's haul. It was pretty hard to understand him, but we could tell he was unhappy with the Trump Administration, and kindly showed us his marijuana without our request.
 
@@ -372,7 +372,7 @@ We went through the gate and told him we'd do the hike for $20 USD. I ended up g
 
 We hiked up a little bit past his house. It was designed by himself and influenced by southeastern Asian architecture, particularly from Thailand. We took a brief stop on a platform overlooking the valley that held Soufriere and the Pitons. It was a spectacular view — perhaps better than Tet Paul, and while you could see much further than we could at La Batterie, that view was admittedly more picturesque.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162041-1200.jpg" title="" caption="Asa and Ruby overlooking the town of Soufriere" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162041-1200.jpg" title="" caption="Asa and Ruby overlooking the town of Soufriere" %}
 
 We continued up his mountain path, and he pointed out various plants of interest, including pine trees he had planted to remind him of his time in Canada, a cinnamon tree, a fiddle-head fern (named for the curly end which resembles the scroll of a fiddle), the massive palms and bamboo that dwarfed us, and another frankincense tree. He actually went down to chop off a chunk of it to give us.
 
@@ -380,7 +380,7 @@ On our way up and down, we mostly discussed Rastafarian thought — how cities a
 
 We made it back to his vantage point and kept an eye out for parrots while continuing making smalltalk. It was around 4:30 PM — an excellent time to see parrots, as the air was cooling down. Asa took out some delicious oranges for us to eat.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162028-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162028-1200.jpg" title="" caption="" %}
 
 He told us about his daughter on the east coast of Saint Lucia, his son in Vieux Fort, his son in France (and thankfully not in a big city!), and his son in Nova Scotia.
 
@@ -408,7 +408,7 @@ Another splendid day in Saint Lucia!
 
 We woke up to an alarm at 6:30 AST, and began throwing our belongings together so that we'd be ready to bounce out when we returned in the evening.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_080137-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_080137-1200.jpg" title="" caption="" %}
 
 After a quick breakfast, we headed up north again. This time our eyes were set on hiking Gros Piton.
 
@@ -416,11 +416,11 @@ We arrived at the Village of the Free People, and paid our $250 EC entry. The go
 
 The hike was pretty difficult. The path was very rocky. You rarely stepped on dirt, just rocks or steps constructed of sticks supporting the earth.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_090627-1200.jpg" title="" caption="First stop! Choiseul is visible behind us." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_090627-1200.jpg" title="" caption="First stop! Choiseul is visible behind us." %}
 
 The hike is done in four quarters, by distance. At the first stop, you have a nice view of Anse L'Ivrogne and Choiseul. At the second stop, you have a view back at Petit Piton, and you can even see the stretch of land by Anse Chastanet where La Batterie and the Treehouses are (our third and final AirBnB).
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_093519-1200.jpg" title="" caption="Second stop - somewhere back there is La Batterie, where we stayed our first three nights." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_093519-1200.jpg" title="" caption="Second stop - somewhere back there is La Batterie, where we stayed our first three nights." %}
 
 Between the second and third stops, the terrain gets harder. The path doesn't make wide zig zags like most trails I've done, but just kinda goes straight up the mountain while going around trees.
 
@@ -428,9 +428,9 @@ The third stop is called the point of no return. If you've made it this far, you
 
 It was a tough climb, but after some odd 2 hours and 15 minutes, we made it to the top! This was by far the most comprehensive view we had so far. You could see Vieux Fort in its entirety, Martinique (the country north of Saint Lucia) in the distance to our north, Mount Gimie (whose summit always appears to be in the clouds), the bald side of the collapsed volcano, and Saint Vincent in the distance to our south. I was drenched in sweat, and I took off my shirt and rung it out and there was SO much sweat in it!
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-piton-summit.mov" caption="A little video overview from the peak" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-piton-summit.mov" caption="A little video overview from the peak" %}
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_110546-1200.jpg" title="" caption="She's too sweet." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_110546-1200.jpg" title="" caption="She's too sweet." %}
 
 A few dogs were hanging out at the peak. Stray dogs are all over the island. All of them have been friendly so far.
 
@@ -438,15 +438,15 @@ After enjoying some miniature bananas from Asa and some peanut butter, we began 
 
 Finally, we arrived back at the Village of the Free People, where we picked up some mango and avocado homemade ice cream. How could we not?
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_124105-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_124105-1200.jpg" title="" caption="" %}
 
 We hopped in the Jimny (after taking pictures of a Toyota Altezza) and headed through Soufriere, heading east into the rainforest to the New Jerusalem hot springs. Ruby recorded some of the journey, just to get a feel for what the roads are like.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/driving-in-saint-lucia.mov" caption="Roads in Saint Lucia are great - they're very windy, and everyone drives like it's a rally stage. We never saw an accident, or anyone pulled over by police all week. This journey records us going north into Soufriere and then heading east towards the Jerusalem mineral baths." %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/driving-in-saint-lucia.mov" caption="Roads in Saint Lucia are great - they're very windy, and everyone drives like it's a rally stage. We never saw an accident, or anyone pulled over by police all week. This journey records us going north into Soufriere and then heading east towards the Jerusalem mineral baths." %}
 
 Upon reaching the hot springs, we parked behind an older 4WD Kia Sportage. We began our way in and some tubby kid approached us from the adjacent house and said he'd be our tour guide.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_132058-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_132058-1200.jpg" title="" caption="" %}
 
 I could tell pretty quickly that I didn't like this, but wasn't totally sure whether having a guide or not was standard. He led us down the path and pointed out what was already obvious to us, like where to pay our $4 USD admission, or where the baths were. He pointed to bamboo. "Do you know what this is?" "It's...bamboo..." "Yes."
 
@@ -456,7 +456,7 @@ This all made us think back to our conversation with Asa about the rising touris
 
 The "tour guide" kid (I never even got his name) told us he likes making stuff, presumably out of wood. Why not follow that passion? Why not demonstrate to tourists how creative and rich your country's culture is instead of being a leech? At any rate...
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_143650-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_143650-1200.jpg" title="" caption="" %}
 
 The pools were great! The upper pool was fed with hot water from the springs, the middle pool was fed with water from the upper pool and some supplementary hot water, and the lower pool was fed with the middle pool's water and some cold water. Ruby and I both agreed that all of them felt pretty good! The hottest pool was slightly cooler than your typical hot tub, which meant it was much cooler than the sulfur springs from the day before (which is good).
 
@@ -466,7 +466,7 @@ I put another $20 USD in the tank in Soufriere. While I was inside to pay, that 
 
 We arrived at the Treehouse, just across the street from La Batterie. Wow! This one is perfect. Definitively the best one yet. It's small, but the perfect size for two people. It's very open, but felt much cleaner than the Waterlilly cottage, and since we had already stayed up here, we were much less bothered by the possibility of giant spiders eating us alive.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/treehouse-i-airbnb.mov" caption="The grand tour of the Treehouse I AirBnB" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/treehouse-i-airbnb.mov" caption="The grand tour of the Treehouse I AirBnB" %}
 
 The entryway leads into an open room with a ceiling fan, that serves as a hub for the house. The bedroom features a large 4 post bed with a mosquito net, great storage, a TV, and even a mini split HVAC unit! The doors that keep us in are handcarved by Mr. Uptight (a local woodworker on the island).
 
@@ -474,7 +474,7 @@ The bathroom has a neat mirror on it with lights in it. It's actually pretty gre
 
 The kitchen is well featured with an oven with a stove top, a toaster, a microwave, a Bluetooth speaker, and even a filtered water cooler! The window to the kitchen opens up to give a view of the water. As the sun was setting, Ruby said "there's nothing better than watching a sunset from my kitchen". I took this as a challenge, and took off my shirt, picked up a kitten that was roaming around our house, and stood on the balcony outside the kitchen in front of the sunset. Beat that.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_175723-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_175723-1200.jpg" title="" caption="" %}
 
 Outside, we have a little private "plunge pool".
 
@@ -488,7 +488,7 @@ Afterwards, we snuggled up and watched the rest of *Stranger Things* season 1 on
 
 We slept in pretty late this morning enjoying the comfortable air conditioned room and privacy of the Hidden Treehouse Villa I. We ate leftovers from the night before for breakfast, showered, and prepared for a trip to Castries.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_122803-1200.jpg" title="" caption="Pizza, anyone?" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_122803-1200.jpg" title="" caption="Pizza, anyone?" %}
 
 Without GPS, we headed north up the main road, passing through Canaries, Anse La Raye (where we always get hollered at, this time it was "Romeo and Juliet! Romeo and Juliet!"), and Soucis. It was a pretty pleasant drive. Everyone drives fast, and as far as I can tell there are no enforced speed limits. Sometimes I will see a sign that says 20 or 40 or sometimes "64 kmh / 40 mph", but everyone simply just goes however fast they can. I've not seen any cars pulled over, either. From what I can tell, the police all drive pickup trucks here.
 
@@ -506,7 +506,7 @@ We went upstairs, where there were all sorts of crafts for sale - soaps shaped l
 
 While inside, a heavy rain and wind passed over, making plenty of noise on the metal roof. I wondered how the open air chocolate making class was going.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/rain.mov" caption="I faded the audio in and lowered the video volume. It was *loud*." %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/rain.mov" caption="I faded the audio in and lowered the video volume. It was *loud*." %}
 
 I encouraged Ruby to shop. It is our honeymoon, after all. She tried on one dress, first way too big, and then only a little too big, and then one of a different style that was a free size that was flowy. We took that one home, because it's so her.
 
@@ -516,23 +516,23 @@ We had difficulty finding it, but when coming back through realized a gas truck 
 
 We were seated at a small table by the railing that overlooked Castries and the Caribbean behind it. Before us were beautiful large handmade bowls, which were taken by the server almost immediately.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142405-1200.jpg" title="" caption="She's the cutest." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142405-1200.jpg" title="" caption="She's the cutest." %}
 
 The menu was served on a clipboard, which had also been fancily painted. It was a really nice touch. Meanwhile, a plate with delicious fried bread and butter was brought out to us. It was amazing, which excited us for the rest of the meal.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142748-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142748-1200.jpg" title="" caption="" %}
 
 The menu items were not cheap per se, but they were less than what you would see in America.
 
 We ordered a the soup of the day as an appetizer (pumpkin soup). For our entrees, Ruby ordered the Catch of the Day (red snapper with the ginger sauce, as per the waitresses' recommendation), and I ordered pork.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-2-1200.jpg" title="" caption="Look at this ridiculous bowl. Also, delicious fried bread with herb butter on the right." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-2-1200.jpg" title="" caption="Look at this ridiculous bowl. Also, delicious fried bread with herb butter on the right." %}
 
 The soup arrived in the most ridiculous bowl that looked like an upside-down wide-brimmed hat. But heavens. It was perfect, and excited us further for our entrées.
 
 When they arrived, they were also served with a separate platter with four side bowls: small beans, steamed mixed vegetables, fried plantains with fried bread fruit balls, and a cabbage and pumpkin au gratin, which was incredible.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-1200.jpg" title="" caption="In retrospect, I think this is the best restaurant experience I've had in my life, and that's coming from someone who has logged over 100 local restaurant visits." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-1200.jpg" title="" caption="In retrospect, I think this is the best restaurant experience I've had in my life, and that's coming from someone who has logged over 100 local restaurant visits." %}
 
 And speaking of incredible, our entrées. Ruby's red snapper was yummy, but my pork was without doubt the best pork I've ever had. I've never had pork that tasted so much like steak.
 
@@ -542,15 +542,15 @@ Although stuffed, there was rumor of dessert. If everything else was so good, th
 
 We wanted to explore the garden outside a bit, but the falling rain declined. We could formerly see all the way across Choc Bay, but with the rain we could hardly see the edge of the property. On our way out, we went through the gift shop. It was then that we discovered that the owner of the restaurant was Michelle Elliot, the creator of all of the fine artwork inside. We recognized her work from our AirBnB, where several of her pieces reside.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_160737-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_160737-1200.jpg" title="" caption="" %}
 
 We hopped back in traffic and headed north with no real destination. Eventually, we reached the inlet where Fort Rodney is, as well as a Sandals resort. I used this opportunity for some photo ops with the Jimny.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_172851-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_172851-1200.jpg" title="" caption="" %}
 
 At the end of this road where the foot path to Fort Rodney begins, there's the beautiful Pigeon Island beach (my theory is that it used to be an island, until the Sandals resort was built which connects it to the mainland). We had brought our bathing suits (just in case!) so we made the most of the opportunity. It wasn't the best view, but the beach was the nicest we had come across. The water was excellent, and we stayed past sunset.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-islet.mov" caption="" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-islet.mov" caption="" %}
 
 We started having bad ideas related to the neighboring Sandals resort. All beaches on Saint Lucia are public...right? We managed the walk right through the gate, and the guard woman didn't bat an eye.
 
@@ -574,7 +574,7 @@ I picked up a roll and Ruby and I ate it on the beach. Hungry for another roll, 
 
 We headed back to the gate where we entered to make our way out, knowing the guard would be an obstacle. We slipped out when she had wandered off a bit, but she still saw us. She called after us, and I kept walking a little bit, but Ruby turned around because she's nice. The guard woman recorded our last name (we said "Dinnie") and our room number (7030 this time because we knew it was real) and she let us return to our Jimny.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/puddle-jumping.mov" caption="We used the Jimny's 4WD to plow through some huge puddles on the way out. How could we not?" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/puddle-jumping.mov" caption="We used the Jimny's 4WD to plow through some huge puddles on the way out. How could we not?" %}
 
 Back to Soufriere! First, however, we stopped at a supermarket before we even got back to Castries to pick up some things to make meals our last two days here.
 
@@ -586,7 +586,7 @@ Upon our return, we made our signature brownies and drifted off to sleep. We wer
 
 Another wonderfully lazy morning. It's been raining on and off. The clothes on the line are never going to be dry. We've been listening to music on Spotify (my "Cute." playlist and some Switchfoot albums) while I record yesterday's events.
 
-{% include video_full.html videourl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/more-rain.mov" caption="" %}
+{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/more-rain.mov" caption="" %}
 
 We had no big plans for the day. We knew Anse Chastanet was just around the corner, so we made our way there to snorkel with our AirBnB's provided snorkeling equipment.
 
@@ -596,7 +596,7 @@ The snorkeling was great! We were impressed at how many colorful variety of fish
 
 We headed back to our villa to hop in our little plunge pool before going back inside. We ended up playing a gnarly game of Scrabble. I hadn't played in...maybe ever? But it was surprisingly competitive. I ended up pulling a 292-287 victory with the word "tut" for 6 points.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191126_180418-1200.jpg" title="" caption="Nobody got angry and flipped the board, so our marriage must be going pretty well." %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191126_180418-1200.jpg" title="" caption="Nobody got angry and flipped the board, so our marriage must be going pretty well." %}
 
 After dinner, I taught Ruby how to play Yahtzee. She enjoyed it, which I was happy about, because I quite like Yahtzee. We did a single-player practice round where I walked her through the logic of the gameplay, and she scored a remarkable score just doing that.
 
@@ -612,13 +612,13 @@ After making breakfast and while packing our belongings, Chairmane (the Hidden T
 
 Chairmane's assistant had came by earlier with some souvenirs to sell but I had turned her away at the time because Ruby wasn't dressed. I felt bad about that, but on their return, I was able to ask her about them, and she brought them back. I was hoping an opportunity like this would arise, so I had given our remaining EC dollars to Ruby. She managed to spend all $30 EC (~$11 USD) of it on a bead bracelet and Saint Lucia keychain that we'll turn into a Christmas ornament.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_110231(0)-1200.jpg" title="" caption="Packing up one last time" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_1102310-1200.jpg" title="" caption="Packing up one last time" %}
 
 We brought our bags to the car and headed south towards Vieux Fort, but I had one last destination in mind. This was La Maison Creole, a small Saint Lucian cultural museum just on the other side of Choiseul.
 
 When passing through Choiseul, we stopped at one of the art shops that we had passed a few times and wondered about.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/choiseul-shop-1200.jpg" title="" caption=""%}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/choiseul-shop-1200.jpg" title="" caption=""%}
 
 After briefly checking out the woven items, we continued down south to La Maison Creole.
 
@@ -626,11 +626,11 @@ When we pulled up, we were greeted by a woman who ran the museum. I feel like he
 
 It soon became clear that this museum also served as her home, and that it was just us and her. The museum doesn't get frequent visitors. Later we found out that Theresa's daughter had added the museum to Google Maps, where I found the museum the night before.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/la-maison-creole-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/la-maison-creole-1200.jpg" title="" caption="" %}
 
 After waiting a couple minutes for Theresa to tidy up, we began our tour. She showed us various items of Saint Lucian past — kerosene lamps, woodworking tools, cameras, homebuilding techniques, artwork, sewing machines, and anything else that she had come across and stocked in her museum.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_114914-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_114914-1200.jpg" title="" caption="" %}
 
 Upon being asked about the vinyl records she kept (for she had many in large stacks), she encouraged us to take one home with us. I chose a Jamaican EP \[which may be found on [Discogs](https://www.discogs.com/Jackie-And-Hortense-Let-It-Be-Me/release/4155097)\].
 
@@ -644,15 +644,15 @@ Earlier, Ruby had asked Theresa about her woven baskets that she makes. Theresa 
 
 We sat down at the entrance at a small table with strips of leaves from a Panama tree. For the next 80 or so minutes, Theresa demonstrated to Ruby each step of the process, starting with the bottom, then the sides, then the lid, tidying up any edges, creating and attaching two handles, and finally a latch to keep it shut.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140314-1200.jpg" title="" caption=""%}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140314-1200.jpg" title="" caption=""%}
 
 It was splendid, and the perfect way to end our tourism on the island. People like Theresa make Saint Lucia beautiful.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140457-1200.jpg" title="" caption="Ruby, Theresa, and the basket they made together"%}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140457-1200.jpg" title="" caption="Ruby, Theresa, and the basket they made together"%}
 
 We expressed how much we appreciated her time with us, and headed on to the airport.
 
-{% include image_full.html imageurl="https://gkubed.s3.amazonaws.com/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/flying-out-1200.jpg" title="" caption="If you were on an airplane and didn't take a picture, did you even fly?" %}
+{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/flying-out-1200.jpg" title="" caption="If you were on an airplane and didn't take a picture, did you even fly?" %}
 
 Everything went pretty smoothly. Despite being a couple rows away in one of the flights, we were able to virtually spend time with each other playing Mario Party DS.
 
