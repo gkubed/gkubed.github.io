@@ -2,7 +2,7 @@
 layout: post
 title: "Honeymooning in Saint Lucia - The Enormous Picture Journal"
 date: "2020-05-25 13:00:00 -0400"
-featured_image: saint-lucia.jpg
+featured_image: https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/saint-lucia.jpg
 tags: [Honeymoon, Saint Lucia, Life, Marriage, Suzuki Jimny]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Capturing MSO Mauvine Blue"
 date: "2019-02-02 12:02:31 -0500"
-featured_image: 720s-sideshot.jpg
+featured_image: https://f002.backblazeb2.com/file/gkubed/2019-02-02-capturing-mso-mauvine-blue/720s-sideshot.jpg
 tags: [Cars, McLaren, 720S, MSO, Paint, Cars and Coffee, Richmond Virginia]
 ---
 

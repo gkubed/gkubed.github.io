@@ -2,7 +2,7 @@
 layout: post
 title: "J-Spec Auto Sports - Purchasing a 2JZ-GTE"
 date: "2019-01-13 14:14:55 -0500"
-featured_image: 2jz-forklift.jpg
+featured_image: https://f002.backblazeb2.com/file/gkubed/2019-01-13-jspec-auto-sports--purchasing-a-2jzgte/2jz-forklift.jpg
 tags: [Cars, Lexus, IS300, Engines]
 ---
 

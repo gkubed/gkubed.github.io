@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Night at NASA March Madness 2019"
 date: "2019-06-23 13:11:02 -0400"
-featured_image: gti-tcr.jpg
+featured_image: https://f002.backblazeb2.com/file/gkubed/2019-06-23-nasa-march-madness-2019/gti-tcr.jpg
 tags: [Cars, HPDE, NASA, Racing, VIR, Virginia International Raceway]
 ---
 

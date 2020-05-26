@@ -2,7 +2,7 @@
 layout: post
 title: "First Cars and Coffee of the Decade"
 date: "2020-01-11 20:39:02 -0500"
-featured_image: ford-gt-cars-and-coffee-overlook.jpg
+featured_image: https://f002.backblazeb2.com/file/gkubed/2020-01-12-first-cars-and-coffee-of-the-decade/ford-gt-cars-and-coffee-overlook.jpg
 tags: [Cars and Coffee, Richmond Virginia]
 ---
 
