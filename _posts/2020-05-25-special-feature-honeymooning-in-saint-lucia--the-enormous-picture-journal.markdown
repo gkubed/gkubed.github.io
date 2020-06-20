@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Honeymooning in Saint Lucia - The Enormous Picture Journal"
+title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal"
 date: "2020-05-25 13:00:00 -0400"
 featured_image: https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/saint-lucia.jpg
-tags: [Honeymoon, Saint Lucia, Life, Marriage, Suzuki Jimny]
+tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
 Immediately following our marriage, Ruby and I travelled to the island of Saint Lucia in the Caribbean. While Ruby knew we were going on a honeymoon, she (along with everybody else) was never told of where we were going.
