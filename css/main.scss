@@ -27,7 +27,7 @@
 .inner {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1200px; // 960
+    max-width: 1200px; //960px
 }
 
 .entry-header,
@@ -41,7 +41,7 @@
 .full-width .caption-text {
     margin-left: auto;
     margin-right: auto;
-    max-width: 720px;
+    max-width: 1000px; //720px
 }
 
 /**
@@ -321,11 +321,11 @@ ul.search-results {
 
 .post {
     background: #fff;
-    margin-bottom: 60px;
+    margin-bottom: 0px; //60px
 }
 
 .entry-box {
-    padding: 48px 30px;
+    padding: 24px 30px; //48px 30px
 }
 
 .entry-header {
@@ -334,7 +334,7 @@ ul.search-results {
 }
 
 .entry-title {
-    font-size: 38px;
+    font-size: 32px; //38px
     margin: 0 0 12px;
     a {
         color: #30373d;
@@ -502,6 +502,7 @@ ul.search-results {
 .pagination,
 .post-nav {
     font: bold 14px/1.5 $alt-font;
+    margin-top: 48px; //I added this
     margin-bottom: 48px;
     position: relative;
     text-align: center;
