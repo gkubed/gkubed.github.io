@@ -1,12 +1,12 @@
 <figure class="full-width">
   {% if include.url %}
   <a href="{{ include.url }}" target="_blank">
-    {% endif %}
+  {% endif %}
     <img src="{{ include.imageurl }}" alt="{{ include.caption }}"/>
-    {% if include.caption %}
-    <figcaption class="caption-text">{{ include.caption }}</figcaption>
-    {% endif %}
-    {% if include.url %}
+  {% if include.url %}
   </a>
+  {% endif %}
+  {% if include.caption %}
+  <figcaption class="caption-text">{{ include.caption }}</figcaption>
   {% endif %}
 </figure>
