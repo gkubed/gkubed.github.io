@@ -3,7 +3,7 @@ layout: post
 title: "J-Spec Auto Sports - Purchasing a 2JZ-GTE"
 date: "2019-01-13 14:14:55 -0500"
 featured_image: https://f002.backblazeb2.com/file/gkubed/2019-01-13-jspec-auto-sports--purchasing-a-2jzgte/2jz-forklift.jpg
-tags: [Cars, Lexus, IS300, Engines]
+tags: [Cars, Lexus, IS300, Engines, J-Spec Auto Sports]
 ---
 
 My long time friend and essentially brother David (@[ddinnie](https://www.instagram.com/ddinnie/)) has been dreaming of swapping a 2JZ-GTE into his IS300 for years now. While it was always in the works, a generous Christmas gift from his wife sent the swap plan on a fast track. His years of researching in advance meant that he was ready to go ahead and pick up the engine. This engine would be replacing the current 2JZ-GE powerplant with a variant of it that came from the factory with twin turbos, which of course means more power.

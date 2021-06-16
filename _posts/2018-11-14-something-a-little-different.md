@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Something a little different"
-date:   2018-11-14
+title: "Something a little different"
+date: 2018-11-14
 featured_image: https://f002.backblazeb2.com/file/gkubed/2018-11-14-something-a-little-different/marty.jpg
 tags: [Text]
 ---
