@@ -13,4 +13,6 @@ Below are a collection of exhaust clips on the ZC6/ZN6 platform. To submit more 
 
 | Header | Overpipe | Front Pipe | Mid Pipe | Axle Back | Link |
 --- | --- | --- | --- | --- | ---
-| JDL catless UEL | OEM | Invidia Catted Front Pipe | MXP SP | MXP SP | [Link](https://www.youtube.com/watch?v=E4CShKL51dI) |
+| JDL UEL catless | OEM | Invidia Catted Front Pipe | MXP SP | MXP SP | [Link](https://www.youtube.com/watch?v=E4CShKL51dI) |
+| JDL 4-1 EL catless | OEM | HKS Dual Resonated Front Pipe | Greddy Revolution RS | Greddy Revolution RS | [Link](https://www.youtube.com/watch?v=tdu2LHGLE9o) |
+| PTuning EL catless | OEM | JDL Ultra Quiet Front Pipe | CSG Spec Touring 86 MXP | CSG Spec Touring 86 MXP | [Link 1](https://www.youtube.com/watch?v=6JljePkvhIE), [2](https://www.youtube.com/watch?v=jmqyd0QUn4c)|
