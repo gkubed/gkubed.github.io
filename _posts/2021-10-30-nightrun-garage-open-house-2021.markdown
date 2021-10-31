@@ -14,28 +14,28 @@ There's only a handful of shops in the greater Richmond, VA area that have *real
 
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1344-1200.jpg" title="" caption="" %}
 
-In mid-2018 I needed some work done on my Scion FR-S (more this car on another day, I promise) that I wasn't quite capable of doing. I had a few friends that had work done through Nightrun Garage before, so I decided to give them a shot and I've been coming back ever since.
+In mid-2018 my Scion FR-S (more on this car another day, I promise) needed some work that I wasn't quite capable of doing. A few friends of mine had work done through Nightrun Garage before, so I decided to give them a shot and I've been coming back ever since.
 
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1397-1200.jpg" title="" caption="" %}
 
 Nightrun Garage is a shop located in Ashland (just north of Richmond) ran by Ben Willis and Chris Larson, and while not *exclusively* a Toyota shop, most of their work is on Toyota and Lexus cars. They are perhaps most known for their expertise with cars powered by Toyota's legendary JZ family of engines found in third and fourth generation Toyota Supras.
 
-Speaking of the JZ family of engines - remember that time I wrote about [us purchasing a 2JZ-GTE from JSpec Auto](https://gkubed.com/2019/01/13/jspec-auto-sports-purchasing-a-2jzgte/) for David's IS300? Well, wouldn't you know it, the engine is in the car and it's just getting finished up at Nightrun!
+Speaking of the JZ family of engines - remember that time I wrote about us [purchasing a 2JZ-GTE from JSpec Auto](https://gkubed.com/2019/01/13/jspec-auto-sports-purchasing-a-2jzgte/) for David's IS300? Well, wouldn't you know it, the engine is in the car and it's just getting finished up at Nightrun!
 
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1377-1200.jpg" title="" caption="" %}
 
 Previously naturally aspirated from the factory, it's now running Toyota's higher performance 2JZ-GTE engine with the twin-turbocharged setup replaced with one big ole BorgWarner S363SXE turbo. It'll make in the mid-400's as far as wheel horsepower goes.
 
-My personal favorite car inside the garage during the open house (besides David's, *of course*) was this beautiful third generation Toyota Supra powered by a 1ZZ-GTE and resting on a set of Rays Volk TE-37's.
+My personal favorite car inside the garage during the open house (besides David's, *of course*) was this beautiful third generation Toyota Supra powered by a 1JZ-GTE and resting on a set of Rays Volk TE-37's.
 
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/mk3supra.jpeg" title="" caption="" %}
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1360-1200.jpg" title="" caption="" %}
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1405-1200.jpg" title="" caption="" %}
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1418-1200.jpg" title="" caption="" %}
 
-In addition to just wrenching, Nightrun Garage also produces some parts in house. Some, like David's custom exhaust, are made on demand, while others are produced for sale on their website.
+In addition to turning wrenches, Nightrun Garage also produces some parts in house. Some, like David's custom exhaust, are made on demand, while others are produced for sale on their website.
 
-I'd love to get into some light metalwork when I can finally afford to build a garage, but for now I'll just have to lust over the machines that hide in Nightrun's shop.
+If I'm honest, the machines in this corner of the shop interest me as much as the ones outside on four wheels.
 
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1394-1200.jpg" title="" caption="" %}
 
@@ -72,7 +72,6 @@ Lastly, one of my favorite vehicles driven to the event was our local Datsun 620
 Thanks for taking the time out of your day to browse these photos ❤.
 
 # Bonus Photos
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1390-1200.jpg" title="" caption="" %}
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1468-1200.jpg" title="" caption="" %}
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1462-1200.jpg" title="" caption="" %}
 {% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2021-10-30-nightrun-garage-open-house-2021/_MG_1495-1200.jpg" title="" caption="" %}
