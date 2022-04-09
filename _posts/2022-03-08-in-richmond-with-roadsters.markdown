@@ -68,7 +68,7 @@ When it became too dark for me to handhold the camera, I broke out the tripod fo
 Before heading out, I snagged a few more pictures of the Miata.
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/51990321097/in/album-72177720297966181/" imageurl="https://f002.backblazeb2.com/file/gkubed/2022-03-08-in-richmond-with-roadsters/8435-8440-merge.jpg" title="" caption="" %}
 
-To end our night, we followed I-95 South from below and took a few shots in Shockhoe Bottom and then some obligatory photos at the Church Hill Overlook, where I had more fun taking pictures of the cars blurred in motion than I did them sitting still. I hadn't thought about it at the time, but I hadn't taken photos at night since H2Oi 2018! I think I got the hang of it though, eventually.
+To end our night, we followed I-95 South from below and took a few shots in Shockoe Bottom and then some obligatory photos at the Church Hill Overlook, where I had more fun taking pictures of the cars blurred in motion than I did them sitting still. I hadn't thought about it at the time, but I hadn't taken photos at night since H2Oi 2018! I think I got the hang of it though, eventually.
 
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/51990321032/in/album-72177720297966181/" imageurl="https://f002.backblazeb2.com/file/gkubed/2022-03-08-in-richmond-with-roadsters/_MG_8443-1200.jpg" title="" caption="" %}
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/51991378058/in/album-72177720297966181/" imageurl="https://f002.backblazeb2.com/file/gkubed/2022-03-08-in-richmond-with-roadsters/_MG_8444-1200.jpg" title="" caption="" %}
