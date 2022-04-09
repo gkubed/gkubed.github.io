@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Richmond with Roadsters"
-date: "2022-04-08 20:00:00 -0500"
+date: "2022-04-08 19:00:00 -0500"
 featured_image: https://f002.backblazeb2.com/file/gkubed/2022-03-08-in-richmond-with-roadsters/_MG_8162-1200.jpg
 tags: [Cars, Richmond Virginia, Honda, S2000, Mazda, Miata, MX-5]
 ---
