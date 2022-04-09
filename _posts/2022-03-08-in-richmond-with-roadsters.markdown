@@ -78,7 +78,7 @@ To end our night, we followed I-95 South from below and took a few shots in Shoc
 
 It was a good night - especially since we finished it by enjoying some ice cream at Sweet Spot Ice Cream Cafe. Thanks Chris and Steve for letting me shoot your cars, and thank *you*, dear reader, for following along. Below you'll find their respective mod lists and more bonus photos at the end ❤.
 
-|Chris Larson's 2003 Honda S200 AP1 | Steve Killmon's 2016 Mazda MX-5 Club ND1 |
+|Chris Larson's 2003 Honda S2000 AP1 | Steve Killmon's 2016 Mazda MX-5 Club ND1 |
 |-------|--------|
 |Fortune Auto 500 coilovers with 10k/10k spring rates|Koni Yellow Shocks/Progress RoadsterSport Springs|
 |WedsSport TC105x in 17x9 +49|Progress Sway Bars|
