@@ -2,7 +2,7 @@
 layout: post
 title: "gkubed.com is Moving to guyon.io!"
 date: 2022-06-19
-featured_image: https://f002.backblazeb2.com/file/gkubed/2022-06-19-gkubed.com-is-moving-to-guyon.io/IMG_8792-1200.jpg
+featured_image: https://f002.backblazeb2.com/file/gkubed/2022-06-19-gkubed.com-is-moving-to-guyon.io/IMG_8792-1400.jpg
 tags:
 ---
 
