@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "gkubed"
+title: "guyon.io"
 
 # Site logo
 logo:
@@ -24,7 +24,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://gkubed.com"
+url: "https://guyon.io/"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -41,12 +41,12 @@ navigation:
 # Author information - author info at the bottom of the post
 author_name: "Guyon Cumby"
 author_bio: "Follower of Jesus, gearhead, photographer, and software systems engineer"
-author_url: "https://gkubed.com"
+author_url: "https://guyon.io/"
 author_location: "Richmond, Virginia"
 author_image: authorimage.jpg
 
 # Footer ad banner
-banner_url: "https://gkubed.com/"
+banner_url: "https://guyon.io/"
 banner_image: banner.jpg
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
