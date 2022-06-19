@@ -1,0 +1,9 @@
+---
+layout: post
+title: "gkubed.com is Moving to guyon.io!"
+date: 2022-06-19
+featured_image: https://f002.backblazeb2.com/file/gkubed/2022-06-19-gkubed.com-is-moving-to-guyon.io/IMG_8792-1200.jpg
+tags:
+---
+
+After some consideration, I've decided to pull the trigger on a different domain name - [guyon.io](https://guyon.io). Depending on when you're reading this, [guyon.io](https://guyon.io) may or may not be active. In the event that you have gkubed.com bookmarked or a subscription to it with RSS (💕), do move those to [guyon.io](https://guyon.io). This is because [guyon.io](https://guyon.io) is *way* more memorable than gkubed.com, and most people don't know what gkubed is (I'm Guyon the third - G³).
