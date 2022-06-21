@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 9"
 date: "2020-06-03 13:00:00 -0400"
-featured_image: https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191126_093916-1200.jpg
+featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191126_093916-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature]
 ---
 
@@ -12,7 +12,7 @@ Another wonderfully lazy morning. It's been raining on and off. The clothes on t
 
 <!--more-->
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/more-rain.mov" caption="" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/more-rain.mov" caption="" %}
 
 We had no big plans for the day. We knew Anse Chastanet was just around the corner, so we made our way there to snorkel with our AirBnB's provided snorkeling equipment.
 
@@ -22,7 +22,7 @@ The snorkeling was great! We were impressed at how many colorful variety of fish
 
 We headed back to our villa to hop in our little plunge pool before going back inside. We ended up playing a gnarly game of Scrabble. I hadn't played in...maybe ever? But it was surprisingly competitive. I ended up pulling a 292-287 victory with the word "tut" for 6 points.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191126_180418-1200.jpg" title="" caption="Nobody got angry and flipped the board, so our marriage must be going pretty well." %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191126_180418-1200.jpg" title="" caption="Nobody got angry and flipped the board, so our marriage must be going pretty well." %}
 
 After dinner, I taught Ruby how to play Yahtzee. She enjoyed it, which I was happy about, because I quite like Yahtzee. We did a single-player practice round where I walked her through the logic of the gameplay, and she scored a remarkable score just doing that.
 

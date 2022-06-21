@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 4"
 date: "2020-05-28 13:00:00 -0400"
-featured_image: https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_113241-1200.jpg
+featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_113241-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -28,7 +28,7 @@ When we parked, a woman who was working next to the street approached us and fol
 
 The inside was dark, and had a mismatch of objects laying around, not necessarily neatly displayed for customers. She told us that she was in a legal battle with the government for a couple years that had put her operations on hold. She was very kind, and answered Ruby's questions. She was self taught, having started her art journey by reading a book. She was very kind.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191121_130201-1200.jpg" title="" caption="Believe me when I say I *did* take more photos of Ruby than our rental Jimny." %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191121_130201-1200.jpg" title="" caption="Believe me when I say I *did* take more photos of Ruby than our rental Jimny." %}
 
 Eventually, we made it to the Font Deux Plantation. We asked about touring the plantation, but it was pretty expensive at $40 USD a person including a meal, or $25 USD a person including a snack. We opted to just get lunch at the onsite restaurant, the Bamboo Cafe.
 
@@ -38,13 +38,13 @@ On our way out, we stopped at the gift shop and picked up a $10 USD bar of choco
 
 It was nearing 3 PM, so we started heading towards our next AirBnB.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_113241-1200.jpg" title="" caption="Balenbouche Estate" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_113241-1200.jpg" title="" caption="Balenbouche Estate" %}
 
 We arrived a little early, and headed into the main plantation home. We were greeted by many dogs, all of which were rescued strays on the island. They appeared as if they could all be siblings. They were good dogs.
 
 Verena, the daughter of Uta, who runs the estate, met us and led us to our cottage to give us a tour. The Waterlilly Cottage is one of a few AirBnBs on site, and is a small bungalow shaped like an octagon with a bedroom in the middle.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-4-collage-1200.jpg" title="" caption="Ruby posing with the Jimny, Ruby at lunch, and Ruby in front of the Waterlilly Cottage" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-4-collage-1200.jpg" title="" caption="Ruby posing with the Jimny, Ruby at lunch, and Ruby in front of the Waterlilly Cottage" %}
 
 Verena is soft spoken, and gives off a very earthy vibe.
 
@@ -62,7 +62,7 @@ We resorted to collecting beautiful shells and whatever trash would wash ashore.
 
 We were delayed a bit in our return by a bull that stood in the middle of our path. Once we got around him, we made the short trek back to our cottage. By the time we got there, my legs were extremely itchy from the bugs in the field Showering felt great.
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/waterlilly-cottage.mov" caption="Tour de Waterlilly Cottage" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/waterlilly-cottage.mov" caption="Tour de Waterlilly Cottage" %}
 
 Dinner was at 7:30, so we took a nap to make the time pass. Ruby intelligently requested I set an alarm, which woke us up at 7:15. We turned on some lights and got ready.
 
@@ -78,7 +78,7 @@ I watched as a rodent of some variety scurried down the tree. It was probably a 
 
 At this point, the realities of getting an open-air bungalow in the rainforest were settling in. This was reinforced later that night by the adult cockroach I found on my backpack as I was carrying it to the bathroom, and the other similarly sized one that guarded our bar of soap.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191121_201042-1200.jpg" title="" caption="Despite having some run-ins with creepy crawlies, we were happy to be where we were." %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191121_201042-1200.jpg" title="" caption="Despite having some run-ins with creepy crawlies, we were happy to be where we were." %}
 
 While at the plantation, I connected to the Wi-Fi, downloaded Netflix onto my phone, logged in as Ruby's uncle, and downloaded Birdbox to watch offline (there is no Wi-Fi in the cottages). After returning to our bungalow and killing a couple cockroaches, we climbed into bed behind the protection of our mosquito net, and watched the movie on my phone.
 

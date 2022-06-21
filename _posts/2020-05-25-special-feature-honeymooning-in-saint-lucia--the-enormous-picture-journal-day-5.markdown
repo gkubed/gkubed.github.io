@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 5"
 date: "2020-05-29 13:00:00 -0400"
-featured_image: https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_164802-1200.jpg
+featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_164802-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -14,19 +14,19 @@ We headed south, through Laborie and on to Vieux Fort. Verena had given us direc
 
 <!--more-->
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_104531-1200.jpg" title="" caption="Our first grocery trip being married!" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_104531-1200.jpg" title="" caption="Our first grocery trip being married!" %}
 
 Upon checkout, our total rang up to $159.66 EC, or $59.13 USD. Unfortunately for us, we walked in with $57 in USD and maybe $1.75 in EC. We briefly discussed what we could put back (as we were some odd $1.50 USD short), but a kind man behind us gave is a $5 EC note to get us by. At first I refused, but he insisted that I take it, so I did. I gave him all of the change we got back and thanked him again.
 
 It's the little things.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_115520-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_115520-1200.jpg" title="" caption="" %}
 
 We made our way back to the Waterlilly Cottage and made brunch — egg and turkey sandwiches with a side of quartered grapefruit.
 
 We set off to hike the Tet Paul trail. It was a short drive north, and on the same side road as the Fond Doux Plantation, but instead of going there, you hang a left before the gate and take a windy road up the mountain.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-nature-trail-sign-and-doggy-1200.jpg" title="" caption="Saint Lucia has stray dogs just like this one everywhere. Petting them is a bad idea...but they're so sweet!" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-nature-trail-sign-and-doggy-1200.jpg" title="" caption="Saint Lucia has stray dogs just like this one everywhere. Petting them is a bad idea...but they're so sweet!" %}
 
 Tet Paul is at the end of the road. It was $10 US a person, and I paid with my VISA card because I was trying to conserve my cash. We went without a guide, which would have been extra.
 
@@ -34,7 +34,7 @@ The nature trail was beautifully maintained and provided us some of the best vie
 
 There was a rain storm on the southern tip of the island. I was surprised that despite being able to see Saint Vincent and the Grenadines from La Batterie, I was unable to see it from this higher vantage point [*I'm pretty sure it was behind Gros Piton*].
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-view.mov" caption="" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/tet-paul-view.mov" caption="" %}
 
 We left Tet Paul Trail feeling that our money was well spent, and headed off to the "drive through volcano" and sulfur springs.
 
@@ -42,13 +42,13 @@ Finding our way was not too hard, as it was just up the street and on our first 
 
 We drove along the road across the collapsed volcano and were directed to immediately park. Lo and behold, we parked right behind another Jimny in the same color! It looked as though it were a bit newer, and was driven by a couple that appeared to be 30-40 years older than us. I won't pretend like I didn't have some envy. Suddenly our little Jimny had been downgraded from perfect to almost perfect in my mind.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_144701-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_144701-1200.jpg" title="" caption="" %}
 
 It wasn't much of a drive through, but I cannot complain. We got out and were assigned a tour guide, Marianna, to show us the collapsed volcano and answer our questions.
 
 There was no visible lava or anything like I had seen at the volcano in Nicaragua, but there were dark pools of water boiling and shooting water high into the air. We were told that tourists used to be able to actually walk on the surface of the collapsed volcano, where they could boil eggs very quickly. This all came to an end (in the 80's?) when a tour guide, Gabriel, jumped up and down to demonstrate to his group how firm the ground was. It wasn't, and Gabriel collapsed the ground beneath him and was submerged up to his waist, obtaining second degree burns, but was thankfully quickly pulled out. He has retired from giving tours and is now a fisherman in Castries, according to Marianna.
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/sulfur-springs-volcano.mov" caption="Anyone want to take a swim in Gabriel's hole?" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/sulfur-springs-volcano.mov" caption="Anyone want to take a swim in Gabriel's hole?" %}
 
 Thus, the closest boiling water pit to where we were was dubbed Gabriel's hole, the only manmade one there.
 
@@ -64,7 +64,7 @@ We got out and were given a bucket of light grey mud. We took turns covering eac
 
 We were given a second bucket with darker mud, and were able to dip our hands in so we could paint on each other. Ruby drew a bird on my back, and I made her into an adorable kitty (if you squint).
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/mud-baths-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/mud-baths-1200.jpg" title="" caption="" %}
 
 We dipped into another pool, which was thankfully a bit cooler, and washed all of the mud off. I haven't felt so smooth in my life. The guides made many claims about the healing nature of the sulfur springs on your skin, and how breathing it in was healthy. I'm always a skeptic when it comes to armchair prescriptions, but, at the very least, the mud was very exfoliating!
 
@@ -72,13 +72,13 @@ With still some daylight to burn, we headed north (downstream from the sulfur sp
 
 We took a quicker pace than we normally would so that we could make it to the falls, but still stopped to take some pictures on the way.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-botanical-gardens-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-botanical-gardens-1200.jpg" title="" caption="" %}
 
 The waterfall was actually really beautiful! Ruby joked how yesterday's proposal would have been much better done here — completely alone, at a bigger, more beautiful waterfall, and the sign even says Diamond Falls!
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_164802-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191122_164802-1200.jpg" title="" caption="" %}
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-falls.mov" caption="Will you marry me...again?" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/diamond-falls.mov" caption="Will you marry me...again?" %}
 
 We made it out shortly after 5PM after checking out their composting setup and the fountain. Even though we didn't get to spend too much time at the Botanical Gardens, we were very impressed with them. Highly recommended.
 

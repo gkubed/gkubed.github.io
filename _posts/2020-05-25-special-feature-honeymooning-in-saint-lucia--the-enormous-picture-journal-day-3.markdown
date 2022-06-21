@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 3"
 date: "2020-05-27 13:00:00 -0400"
-featured_image: https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_102733-1200.jpg
+featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_102733-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -12,11 +12,11 @@ We awoke this morning by alarm at 7AM in order to get ready for our rainforest t
 
 <!--more-->
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-3-breakfast-1200.jpg" title="" caption="Feeding ourselves - and the birds" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/day-3-breakfast-1200.jpg" title="" caption="Feeding ourselves - and the birds" %}
 
 After filling ourselves, we enjoyed watching the local animals battle over our leftovers.
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/breakfast-show.mov" caption="" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/breakfast-show.mov" caption="" %}
 
 Terry arrived at La Batterie not long after 8 to take us out. We hopped in the Jimny and headed through Soufriere and onto the rainforest, which greeted us with rain and forest.
 
@@ -24,29 +24,29 @@ Some portions of the drive up the mountain were pretty remote. Roads were unpave
 
 We stopped high up in the mountains to look down on Soufriere and the Pitons.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_091041-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_091041-1200.jpg" title="" caption="" %}
 
 We turned around and went back down the sketchy road towards a farm where we would begin our hike.
 
-{% include video_full.html videourl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/jimny-downhill-drive.mov" caption="Ruby recorded this portion of our return trip. I really didn't want to do any damage to our rental!" %}
+{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/jimny-downhill-drive.mov" caption="Ruby recorded this portion of our return trip. I really didn't want to do any damage to our rental!" %}
 
 We arrived at the farm, and got out. Walking sticks were ready for us on the right of where we parked. Terry led us in, and two young men who were working told Terry that it would cost $10 USD to get a tour of the farm. Fair enough.
 
 Before checking out the farm itself, we went on a little hike to an overlook. Along the way, Terry showed us various plants of interest — frankincense, myrrh, cinnamon, nutmeg, and more.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_102733-1200.jpg" title="" caption="Palm trees create a canopy almost everywhere in the rainforest" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_102733-1200.jpg" title="" caption="Palm trees create a canopy almost everywhere in the rainforest" %}
 
 At some point, we arrived at a bench that overlooked the mountains to our east, with Mount Gimie to our north. Terry explained how 40 years ago a plane carrying six tourists hit the other side of the mountain, and nobody survived. He also told us about how people would go deep into the forest and plant marijuana.
 
 We made our way back down to the farm. Terry had us pick things. They had a few bunnies and guinea pigs in cages to produce manure. The owner of the farm, a relatively young man, met us. I gave him the $20 and he took us over to pick our own carrots and peanuts while Terry used the restroom.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_095242-1200.jpg" title="" caption="View west of the Pitons and the farm that we visited" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_095242-1200.jpg" title="" caption="View west of the Pitons and the farm that we visited" %}
 
 There were some blue doves in cages that we saw on the way out. We made our trip down the mountains, stopping briefly at Terry's house so he could grab his backpack.
 
 We did stop at the Toraille waterfall on our way back to Soufriere. It was a definite tourist trap. Many busses were outside bringing hoards of foreigners to the falls, presumably from the resorts in Castries.
 
-{% include image_full.html imageurl="https://f002.backblazeb2.com/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_114704-1200.jpg" title="" caption="Toraille Falls" %}
+{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191120_114704-1200.jpg" title="" caption="Toraille Falls" %}
 
 On our way in, we spoke to some of the vendors out front. Ruby and I bought fried bread (kinda like a donut) for $1 USD and coconut bread for $1 USD and split them. Both were very good!
 
