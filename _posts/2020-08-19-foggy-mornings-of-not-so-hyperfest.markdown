@@ -6,7 +6,7 @@ featured_image: https://i.guyon.io/2020-08-19-foggy-mornings-of-not-so-hyperfest
 tags: [Cars, HPDE, NASA, Racing, VIR, Virginia International Raceway, HyperFest]
 ---
 
-After weekend after weekend of staying home being quarantined, I was excited to make my way down south to Virginia International Raceway for NASA Mid Atlantic's (officially renamed) Not-So-HyperFest. While it kinda felt like a cheat weekend, restrictions were put in place to keep everyone safe from viral spread. I was mildly concerned about how closely people would follow these orders, but overall I was impressed with how the procedures were followed.
+After weekend after weekend of staying home being quarantined, I was excited to make my way down south to Virginia International Raceway for NASA Mid Atlantic's (officially renamed for 2020) Not-So-HyperFest. While it kinda felt like a cheat weekend, restrictions were put in place to keep everyone safe from viral spread. I was mildly concerned about how closely people would follow these orders, but overall I was impressed with how the procedures were followed.
 
 Since the race weekend was taking place, many workers were needed in order to ensure that the event was held safely. That's where I came in, since my job was to verify that cars were prepared to proceed onto the race track. I worked entirely during the period that cars were on track, which gave me little time to take breaks to practice my photography. With this in mind, I decided to take advantage of the foggy atmosphere that greeted us every morning.
 
