@@ -292,6 +292,7 @@ video {
 img {
     height: auto;
     max-width: 100%;
+    image-rendering: pixelated;
 }
 
 a.post-thumbnail img {
