@@ -9,7 +9,7 @@ Below are a collection of exhaust clips on the ZC6/ZN6 platform. To submit more 
 
 *YouTube audio clips only. Video may be unlisted but must be exhaust audio only or a video showcasing specifically the exhaust*.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/exhaust/exhaust.jpg" title="ZC6/ZN6 Exhaust Diagram" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/exhaust/exhaust.jpg" title="ZC6/ZN6 Exhaust Diagram" caption="" %}
 
 | Header | Overpipe | Front Pipe | Mid Pipe | Axle Back | Link |
 --- | --- | --- | --- | --- | ---

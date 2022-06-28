@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 7"
 date: "2020-06-01 13:00:00 -0400"
-featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_110546-1200.jpg
+featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_110546-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -14,7 +14,7 @@ We woke up to an alarm at 6:30 AST, and began throwing our belongings together s
 
 <!--more-->
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_080137-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_080137-1200.jpg" title="" caption="" %}
 
 After a quick breakfast, we headed up north again. This time our eyes were set on hiking Gros Piton.
 
@@ -22,11 +22,11 @@ We arrived at the Village of the Free People, and paid our $250 EC entry. The go
 
 The hike was pretty difficult. The path was very rocky. You rarely stepped on dirt, just rocks or steps constructed of sticks supporting the earth.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_090627-1200.jpg" title="" caption="First stop! Choiseul is visible behind us." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_090627-1200.jpg" title="" caption="First stop! Choiseul is visible behind us." %}
 
 The hike is done in four quarters, by distance. At the first stop, you have a nice view of Anse L'Ivrogne and Choiseul. At the second stop, you have a view back at Petit Piton, and you can even see the stretch of land by Anse Chastanet where La Batterie and the Treehouses are (our third and final AirBnB).
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_093519-1200.jpg" title="" caption="Second stop - somewhere back there is La Batterie, where we stayed our first three nights." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_093519-1200.jpg" title="" caption="Second stop - somewhere back there is La Batterie, where we stayed our first three nights." %}
 
 Between the second and third stops, the terrain gets harder. The path doesn't make wide zig zags like most trails I've done, but just kinda goes straight up the mountain while going around trees.
 
@@ -34,9 +34,9 @@ The third stop is called the point of no return. If you've made it this far, you
 
 It was a tough climb, but after some odd 2 hours and 15 minutes, we made it to the top! This was by far the most comprehensive view we had so far. You could see Vieux Fort in its entirety, Martinique (the country north of Saint Lucia) in the distance to our north, Mount Gimie (whose summit always appears to be in the clouds), the bald side of the collapsed volcano, and Saint Vincent in the distance to our south. I was drenched in sweat, and I took off my shirt and rung it out and there was SO much sweat in it!
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-piton-summit.mov" caption="A little video overview from the peak" %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-piton-summit.mov" caption="A little video overview from the peak" %}
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_110546-1200.jpg" title="" caption="She's too sweet." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_110546-1200.jpg" title="" caption="She's too sweet." %}
 
 A few dogs were hanging out at the peak. Stray dogs are all over the island. All of them have been friendly so far.
 
@@ -44,15 +44,15 @@ After enjoying some miniature bananas from Asa and some peanut butter, we began 
 
 Finally, we arrived back at the Village of the Free People, where we picked up some mango and avocado homemade ice cream. How could we not?
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_124105-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_124105-1200.jpg" title="" caption="" %}
 
 We hopped in the Jimny (after taking pictures of a Toyota Altezza) and headed through Soufriere, heading east into the rainforest to the New Jerusalem hot springs. Ruby recorded some of the journey, just to get a feel for what the roads are like.
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/driving-in-saint-lucia.mov" caption="Roads in Saint Lucia are great - they're very windy, and everyone drives like it's a rally stage. We never saw an accident, or anyone pulled over by police all week. This journey records us going north into Soufriere and then heading east towards the Jerusalem mineral baths." %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/driving-in-saint-lucia.mov" caption="Roads in Saint Lucia are great - they're very windy, and everyone drives like it's a rally stage. We never saw an accident, or anyone pulled over by police all week. This journey records us going north into Soufriere and then heading east towards the Jerusalem mineral baths." %}
 
 Upon reaching the hot springs, we parked behind an older 4WD Kia Sportage. We began our way in and some tubby kid approached us from the adjacent house and said he'd be our tour guide.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_132058-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_132058-1200.jpg" title="" caption="" %}
 
 I could tell pretty quickly that I didn't like this, but wasn't totally sure whether having a guide or not was standard. He led us down the path and pointed out what was already obvious to us, like where to pay our $4 USD admission, or where the baths were. He pointed to bamboo. "Do you know what this is?" "It's...bamboo..." "Yes."
 
@@ -62,7 +62,7 @@ This all made us think back to our conversation with Asa about the rising touris
 
 The "tour guide" kid (I never even got his name) told us he likes making stuff, presumably out of wood. Why not follow that passion? Why not demonstrate to tourists how creative and rich your country's culture is instead of being a leech? At any rate...
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_143650-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_143650-1200.jpg" title="" caption="" %}
 
 The pools were great! The upper pool was fed with hot water from the springs, the middle pool was fed with water from the upper pool and some supplementary hot water, and the lower pool was fed with the middle pool's water and some cold water. Ruby and I both agreed that all of them felt pretty good! The hottest pool was slightly cooler than your typical hot tub, which meant it was much cooler than the sulfur springs from the day before (which is good).
 
@@ -72,7 +72,7 @@ I put another $20 USD in the tank in Soufriere. While I was inside to pay, that 
 
 We arrived at the Treehouse, just across the street from La Batterie. Wow! This one is perfect. Definitively the best one yet. It's small, but the perfect size for two people. It's very open, but felt much cleaner than the Waterlilly cottage, and since we had already stayed up here, we were much less bothered by the possibility of giant spiders eating us alive.
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/treehouse-i-airbnb.mov" caption="The grand tour of the Treehouse I AirBnB" %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/treehouse-i-airbnb.mov" caption="The grand tour of the Treehouse I AirBnB" %}
 
 The entryway leads into an open room with a ceiling fan, that serves as a hub for the house. The bedroom features a large 4 post bed with a mosquito net, great storage, a TV, and even a mini split HVAC unit! The doors that keep us in are handcarved by Mr. Uptight (a local woodworker on the island).
 
@@ -80,7 +80,7 @@ The bathroom has a neat mirror on it with lights in it. It's actually pretty gre
 
 The kitchen is well featured with an oven with a stove top, a toaster, a microwave, a Bluetooth speaker, and even a filtered water cooler! The window to the kitchen opens up to give a view of the water. As the sun was setting, Ruby said "there's nothing better than watching a sunset from my kitchen". I took this as a challenge, and took off my shirt, picked up a kitten that was roaming around our house, and stood on the balcony outside the kitchen in front of the sunset. Beat that.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_175723-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191124_175723-1200.jpg" title="" caption="" %}
 
 Outside, we have a little private "plunge pool".
 

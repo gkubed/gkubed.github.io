@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 6"
 date: "2020-05-30 13:00:00 -0400"
-featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162041-1200.jpg
+featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162041-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -12,11 +12,11 @@ We slept in pretty late, so I recorded the previous day's account before enjoyin
 
 <!--more-->
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_100833-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_100833-1200.jpg" title="" caption="" %}
 
 We planned on going to Sugar Beach, but after speaking with Verena in the morning, we were dissuaded and decided to go to Anse Ivrogne instead. We also discussed doing our laundry.
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/ruby-drives-the-jimny.mov" caption="Ruby wanted to try out the Jimny. Could you blame her?" %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/ruby-drives-the-jimny.mov" caption="Ruby wanted to try out the Jimny. Could you blame her?" %}
 
 We packed a lunch and headed north. We accidentally missed our turn in Choiseul to follow the coastal road, and continued past the series of hairpin turns to turn around at the Jean-Baptiste Batik studio we had tried to stop at on Thursday (and again on Friday, but it was seemingly closed).
 
@@ -24,8 +24,8 @@ For the first time, the door and windows were open. We parked and made our way t
 
 We were actually very impressed with the Batik pieces. Each piece could take the artist as much as a month to prepare. For the first time on the island, we came across artwork that Ruby would consider technically proficient. Dennis tried to sell us a piece, but we simply did not have the cash on hand (or the drive to use it) to afford such pieces. They were more than fairly priced. We were not sure Dennis was really all there. It always felt a bit like he was speaking to a fourth person in the room that wasn't actually there.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113051-1200.jpg" title="" caption="" %}
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113056-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113051-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_113056-1200.jpg" title="" caption="" %}
 
 We got back in our rental Jimny and turned on the road we intended to the first time, and went along the coast on a windy road until eventually we reached an overlook with a restaurant on the top called The View. There was a small rocky road from here that led to the beach. The first turn was pretty intimidating, but the surrounding billy goats showed their support.
 
@@ -35,7 +35,7 @@ We made our way to the beach and saw a few locals, and also saw that the coast w
 
 We talked to two friendly locals who directed us to swim a little further because it was nicer (less lion fish and sea urchins). We began to settle under a tree when one of those friendly locals came by to tell us to not sit under that tree because the falling (and poisonous) almonds from it could be a bit unpleasant. We moved to the shade of the safer adjacent tree and put on our sunscreen and enjoyed the view.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_120928-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_120928-1200.jpg" title="" caption="" %}
 
 One fisherman came by with a 5 gallon bucket with colorful fish inside, and used as colorful language to describe his dissatisfaction with the day's haul. It was pretty hard to understand him, but we could tell he was unhappy with the Trump Administration, and kindly showed us his marijuana without our request.
 
@@ -61,7 +61,7 @@ We went through the gate and told him we'd do the hike for $20 USD. I ended up g
 
 We hiked up a little bit past his house. It was designed by himself and influenced by southeastern Asian architecture, particularly from Thailand. We took a brief stop on a platform overlooking the valley that held Soufriere and the Pitons. It was a spectacular view — perhaps better than Tet Paul, and while you could see much further than we could at La Batterie, that view was admittedly more picturesque.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162041-1200.jpg" title="" caption="Asa and Ruby overlooking the town of Soufriere" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162041-1200.jpg" title="" caption="Asa and Ruby overlooking the town of Soufriere" %}
 
 We continued up his mountain path, and he pointed out various plants of interest, including pine trees he had planted to remind him of his time in Canada, a cinnamon tree, a fiddle-head fern (named for the curly end which resembles the scroll of a fiddle), the massive palms and bamboo that dwarfed us, and another frankincense tree. He actually went down to chop off a chunk of it to give us.
 
@@ -69,7 +69,7 @@ On our way up and down, we mostly discussed Rastafarian thought — how cities a
 
 We made it back to his vantage point and kept an eye out for parrots while continuing making smalltalk. It was around 4:30 PM — an excellent time to see parrots, as the air was cooling down. Asa took out some delicious oranges for us to eat.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162028-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191123_162028-1200.jpg" title="" caption="" %}
 
 He told us about his daughter on the east coast of Saint Lucia, his son in Vieux Fort, his son in France (and thankfully not in a big city!), and his son in Nova Scotia.
 

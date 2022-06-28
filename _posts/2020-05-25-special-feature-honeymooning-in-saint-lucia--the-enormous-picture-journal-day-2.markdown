@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 2"
 date: "2020-05-26 13:00:00 -0400"
-featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_135445-1400.jpg
+featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_135445-1400.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -12,7 +12,7 @@ No alarm clock this morning. After we woke up, I opened the doors to our bedroom
 
 <!--more-->
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_065127-1400.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_065127-1400.jpg" title="" caption="" %}
 
 We ate a delicious breakfast of bacon and eggs on toast, prepared in our kitchen. It was just us, the birds, and the geckos.
 
@@ -34,7 +34,7 @@ When we returned to the Jimny, we were delighted that the person "protecting our
 
 Instead of going straight home, we headed further north to explore. This took us through Canaries and up into Anse La Raye. Going all the way to Castries was debated, but we determined it would be better to save that for another day where we could dedicate more time to it, so we turned around.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_134858-1400.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_134858-1400.jpg" title="" caption="" %}
 
 When we were almost back to Soufriere, Ruby spotted a sign that said something about a parrot sanctuary. I turned the car around so that we could investigate.
 
@@ -52,7 +52,7 @@ I became a little concerned that we were without a dinner in a country where I w
 
 Ruby and I prepared a table on the balcony and dug into our second sampling of rotis on the island. This time they were beef based, and served alongside a side of scallop potatoes (YUM).
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_183736-1400.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_183736-1400.jpg" title="" caption="" %}
 
 Unsure of what to do at night at the villa, we moved some [heavy] furniture around to put a couch in front of the oddly placed TV in the dining room to watch the first Pirates of the Caribbean movie. One of the first scenes was shot just up the coast in Marigot Bay.
 

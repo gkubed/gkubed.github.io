@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 1"
 date: "2020-05-25 13:00:00 -0400"
-featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_153518-1400.jpg
+featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_153518-1400.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature]
 ---
 
@@ -26,13 +26,13 @@ Getting used to driving on the left hand side of the road was pretty easy. It ju
 
 Ruby took some photos on the way. As we reached Soufriere, we stopped at a scenic overlook toward the town and the beach. We talked to another tourist that was also driving a Jimny. He was on a sailing trip, and had been on Saint Lucia a few days already. He kindly took our picture.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_163229-1400.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_163229-1400.jpg" title="" caption="" %}
 
 We made it through Soufriere successfully after getting a little lost because we continued past our turn and proceeded along the main road up the mountain instead of hanging left at the Hummingbird Resort.
 
 We pulled close to La Batterie (our first AirBnB) when Terry, the gardener, spotted us and asked where we were headed. He helped us inside the compound and Stephanie, the house manager, showed us around. Although the sun had already gone down, the Pitons were still visible. During our little tour, La Batterie seemed to just go forever. We were shown three of the four bedrooms, but of course we only used the one whose doors opened up to a spectacular perspective of the Pitons. There was a big wow-factor to this place, which is what I was going for. I spoil her. She kept looking back at me like "you're too much", which is what I go for.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_153523-1400.jpg" title="" caption="Ruby in the courtyard of our AirBnB" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191119_153523-1400.jpg" title="" caption="Ruby in the courtyard of our AirBnB" %}
 
 Stephanie had prepared us both chicken rotis with salad and fried plantains. The roti consisted of potato and chicken curry wrapped in a crispy tortilla - a staple Caribbean dish.
 
@@ -44,7 +44,7 @@ After our time in the pool, we showered, and set out to try some of the fresh fr
 
 We uncurled the mosquito net, shut the doors, and went to sleep.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_180421-1400.jpg" title="" caption="Our housekeeper made our bedroom super cute." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191118_180421-1400.jpg" title="" caption="Our housekeeper made our bedroom super cute." %}
 
 ## Index
 

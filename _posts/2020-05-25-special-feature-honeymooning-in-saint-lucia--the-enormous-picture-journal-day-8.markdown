@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 8"
 date: "2020-06-02 13:00:00 -0400"
-featured_image: https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142405-1200.jpg
+featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142405-1200.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -12,7 +12,7 @@ Once again we slept in pretty late this morning enjoying the comfortable air con
 
 <!--more-->
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_122803-1200.jpg" title="" caption="Pizza, anyone?" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_122803-1200.jpg" title="" caption="Pizza, anyone?" %}
 
 Without GPS, we headed north up the main road, passing through Canaries, Anse La Raye (where we always get hollered at, this time it was "Romeo and Juliet! Romeo and Juliet!"), and Soucis. It was a pretty pleasant drive. Everyone drives fast, and as far as I can tell there are no enforced speed limits. Sometimes I will see a sign that says 20 or 40 or sometimes "64 kmh / 40 mph", but everyone simply just goes however fast they can. I've not seen any cars pulled over, either. From what I can tell, the police all drive pickup trucks here.
 
@@ -30,7 +30,7 @@ We went upstairs, where there were all sorts of crafts for sale - soaps shaped l
 
 While inside, a heavy rain and wind passed over, making plenty of noise on the metal roof. I wondered how the open air chocolate making class was going.
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/rain.mov" caption="I faded the audio in and lowered the video volume. It was *loud*." %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/rain.mov" caption="I faded the audio in and lowered the video volume. It was *loud*." %}
 
 I encouraged Ruby to shop. It is our honeymoon, after all. She tried on one dress, first way too big, and then only a little too big, and then one of a different style that was a free size that was flowy. We took that one home, because it's so her.
 
@@ -40,23 +40,23 @@ We had difficulty finding it, but when coming back through realized a gas truck 
 
 We were seated at a small table by the railing that overlooked Castries and the Caribbean behind it. Before us were beautiful large handmade bowls, which were taken by the server almost immediately.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142405-1200.jpg" title="" caption="She's the cutest." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142405-1200.jpg" title="" caption="She's the cutest." %}
 
 The menu was served on a clipboard, which had also been fancily painted. It was a really nice touch. Meanwhile, a plate with delicious fried bread and butter was brought out to us. It was amazing, which excited us for the rest of the meal.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142748-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_142748-1200.jpg" title="" caption="" %}
 
 The menu items were not cheap per se, but they were less than what you would see in America.
 
 We ordered a the soup of the day as an appetizer (pumpkin soup). For our entrees, Ruby ordered the Catch of the Day (red snapper with the ginger sauce, as per the waitresses' recommendation), and I ordered pork.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-2-1200.jpg" title="" caption="Look at this ridiculous bowl. Also, delicious fried bread with herb butter on the right." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-2-1200.jpg" title="" caption="Look at this ridiculous bowl. Also, delicious fried bread with herb butter on the right." %}
 
 The soup arrived in the most ridiculous bowl that looked like an upside-down wide-brimmed hat. But heavens. It was perfect, and excited us further for our entrées.
 
 When they arrived, they were also served with a separate platter with four side bowls: small beans, steamed mixed vegetables, fried plantains with fried bread fruit balls, and a cabbage and pumpkin au gratin, which was incredible.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-1200.jpg" title="" caption="In retrospect, I think this is the best restaurant experience I've had in my life, and that's coming from someone who has logged over 100 local restaurant visits." %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/the-pink-plantation-1200.jpg" title="" caption="In retrospect, I think this is the best restaurant experience I've had in my life, and that's coming from someone who has logged over 100 local restaurant visits." %}
 
 And speaking of incredible, our entrées. Ruby's red snapper was yummy, but my pork was without doubt the best pork I've ever had. I've never had pork that tasted so much like steak.
 
@@ -66,15 +66,15 @@ Although stuffed, there was rumor of dessert. If everything else was so good, th
 
 We wanted to explore the garden outside a bit, but the falling rain declined. We could formerly see all the way across Choc Bay, but with the rain we could hardly see the edge of the property. On our way out, we went through the gift shop. It was then that we discovered that the owner of the restaurant was Michelle Elliot, the creator of all of the fine artwork inside. We recognized her work from our AirBnB, where several of her pieces reside.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_160737-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_160737-1200.jpg" title="" caption="" %}
 
 We hopped back in traffic and headed north with no real destination. Eventually, we reached the inlet where Fort Rodney is, as well as a Sandals resort. I used this opportunity for some photo ops with the Jimny.
 
-{% include image_full.html imageurl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_172851-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191125_172851-1200.jpg" title="" caption="" %}
 
 At the end of this road where the foot path to Fort Rodney begins, there's the beautiful Pigeon Island beach (my theory is that it used to be an island, until the Sandals resort was built which connects it to the mainland). We had brought our bathing suits (just in case!) so we made the most of the opportunity. It wasn't the best view, but the beach was the nicest we had come across. The water was excellent, and we stayed past sunset.
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-islet.mov" caption="" %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/gros-islet.mov" caption="" %}
 
 We started having bad ideas related to the neighboring Sandals resort. All beaches on Saint Lucia are public...right? We managed the walk right through the gate, and the guard woman didn't bat an eye.
 
@@ -98,7 +98,7 @@ I picked up a roll and Ruby and I ate it on the beach. Hungry for another roll, 
 
 We headed back to the gate where we entered to make our way out, knowing the guard would be an obstacle. We slipped out when she had wandered off a bit, but she still saw us. She called after us, and I kept walking a little bit, but Ruby turned around because she's nice. The guard woman recorded our last name (we said "Dinnie") and our room number (7030 this time because we knew it was real) and she let us return to our Jimny.
 
-{% include video_full.html videourl="https://i.guyon.io/file/gkubed/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/puddle-jumping.mov" caption="We used the Jimny's 4WD to plow through some huge puddles on the way out. How could we not?" %}
+{% include video_full.html videourl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/puddle-jumping.mov" caption="We used the Jimny's 4WD to plow through some huge puddles on the way out. How could we not?" %}
 
 Back to Soufriere! First, however, we stopped at a supermarket before we even got back to Castries to pick up some things to make meals our last two days here.
 
