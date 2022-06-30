@@ -2,7 +2,7 @@
 layout: post
 title: "Special Feature: Honeymooning in Saint Lucia - The Enormous Picture Journal - Day 10"
 date: "2020-06-04 13:00:00 -0400"
-featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_1102310-1200.jpg
+featured_image: https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_110230-1400.jpg
 tags: [Honeymoon, Life, Marriage, Saint Lucia, Special Feature, Suzuki Jimny]
 ---
 
@@ -20,7 +20,7 @@ We brought our bags to the car and headed south towards Vieux Fort, but I had on
 
 When passing through Choiseul, we stopped at one of the art shops that we had passed a few times and wondered about.
 
-{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/choiseul-shop-1200.jpg" title="" caption=""%}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/choiseul-shop-1400.jpg" title="" caption=""%}
 
 After briefly checking out the woven items, we continued down south to La Maison Creole.
 
@@ -28,11 +28,11 @@ When we pulled up, we were greeted by a woman who ran the museum. I feel like he
 
 It soon became clear that this museum also served as her home, and that it was just us and her. The museum doesn't get frequent visitors. Later we found out that Theresa's daughter had added the museum to Google Maps, where I found the museum the night before.
 
-{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/la-maison-creole-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_114857-1400.jpg" title="" caption="" %}
 
 After waiting a couple minutes for Theresa to tidy up, we began our tour. She showed us various items of Saint Lucian past — kerosene lamps, woodworking tools, cameras, homebuilding techniques, artwork, sewing machines, and anything else that she had come across and stocked in her museum.
 
-{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_114914-1200.jpg" title="" caption="" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_114914-1400.jpg" title="" caption="" %}
 
 Upon being asked about the vinyl records she kept (for she had many in large stacks), she encouraged us to take one home with us. I chose a Jamaican EP \[which may be found on [Discogs](https://www.discogs.com/Jackie-And-Hortense-Let-It-Be-Me/release/4155097)\].
 
@@ -46,15 +46,15 @@ Earlier, Ruby had asked Theresa about her woven baskets that she makes. Theresa 
 
 We sat down at the entrance at a small table with strips of leaves from a Panama tree. For the next 80 or so minutes, Theresa demonstrated to Ruby each step of the process, starting with the bottom, then the sides, then the lid, tidying up any edges, creating and attaching two handles, and finally a latch to keep it shut.
 
-{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140314-1200.jpg" title="" caption=""%}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140314-1400.jpg" title="" caption=""%}
 
 It was splendid, and the perfect way to end our tourism on the island. People like Theresa make Saint Lucia beautiful.
 
-{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140457-1200.jpg" title="" caption="Ruby, Theresa, and the basket they made together"%}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/20191127_140457-1400.jpg" title="" caption="Ruby, Theresa, and the basket they made together"%}
 
 We expressed how much we appreciated her time with us, and headed on to the airport.
 
-{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/flying-out-1200.jpg" title="" caption="If you were on an airplane and didn't take a picture, did you even fly?" %}
+{% include image_full.html imageurl="https://i.guyon.io/2020-05-25-honeymooning-in-saint-lucia--the-enormous-picture-journal/flying-out-1400.jpg" title="" caption="If you were on an airplane and didn't take a picture, did you even fly?" %}
 
 Everything went pretty smoothly. Despite being a couple rows away in one of the flights, we were able to virtually spend time with each other playing Mario Party DS.
 
