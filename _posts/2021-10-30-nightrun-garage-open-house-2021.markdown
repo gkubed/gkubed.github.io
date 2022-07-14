@@ -3,7 +3,7 @@ layout: post
 title: "Nightrun Garage Open House 2021"
 date: "2021-10-30 17:00:00 -0500"
 featured_image: https://i.guyon.io/2021-10-30-nightrun-garage-open-house-2021/_MG_1695-1400.jpg
-tags: [Cars, J-Spec Auto Sports, JDM, Photography]
+tags: [Cars, Nightrun Garage, JDM, Photography]
 ---
 
 As you'd rightfully assume, I love my cars. They're all special to me in their own little ways, despite none of them being new, shiny, or expensive. Most of them are old (averaging 26.4 years since new) and all but my FR-S were purchased for no more than $5,000 USD. Despite having little monetary value, I'm still pretty particular about them, and I don't just trust anyone to work on them.
