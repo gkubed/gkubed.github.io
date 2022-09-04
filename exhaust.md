@@ -3,7 +3,7 @@ layout: page
 title: ZC6/ZN6 Exhaust Clips
 description: Exhaust Clips
 featured_image: exhaust.jpg
---- 
+---
 
 Below are a collection of exhaust clips on the ZC6/ZN6 platform. To submit more clips or if a link is broken, please contact Guyon#9489 on the [FT86 Discord](https://discord.com/invite/ft86).
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Scion FR-S Chronicles: Part 1 - Early Ownership"
+title: "The Scion FR-S Chronicles: Part I - Early Ownership"
 date: "2022-04-19 13:00:00 -0400"
 featured_image: https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/DSC05153-1400.jpg
 tags: [Scion, FR-S, Cars, Team Reasonable, Autocross]
@@ -22,7 +22,7 @@ But there was another one...
 
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/1431817994656-1400.jpg" title="" caption="The very first picture I took of my FR-S before I bought it - my first car!" %}
 
-And that's how I came home with my 2015 Scion FR-S in Ultramarine (E8H). Technically, my dad drove it home since I hardly knew how to drive a manual. Prior to this, my only experience driving manual was poking around in a parking lot with my friend Andrew's 5 speed Mazda Protegé. I learned on the FR-S pretty quickly, as it's a very forgiving car to learn in.
+And that's how I came home with my 2015 Scion FR-S in Ultramarine (E8H). Technically, my dad drove it home since I hardly knew how to drive a manual. Prior to this, my only experience driving manual was poking around in a parking lot with my friend Andrew's 5 speed Mazda Protegé. I learned on the FR-S pretty quickly as it's a very forgiving car to learn in.
 
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/1431818349297-1400.jpg" title="" caption="Despite not having driven manual in a couple decades, dad knocked it out of the park and looked great doing it" %}
 
@@ -38,7 +38,7 @@ Times were awesome. Andrew and I lived in an apartment together, and when the bo
 
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/_MG_0413-1400.jpg" title="" caption="Remember when Gadsden flag didn't have such a negative connotation?" %}
 
-However, just a couple days after this picture, my dreams were a little crushed. After a good night celebrating my sister's birthday at my parents place, I began my drive home in the rain. While driving straight down the road, a woman coming the opposite way took a left hand turn directly in front of me. I slammed on the brakes, but my tires were compromised on the wet tarmac.
+However, just a couple days after this picture, my dreams were a little crushed. After a good night celebrating my sister's birthday at my parents' place, I began my drive home in the rain. While driving straight down the road, a woman coming the opposite way took a left hand turn directly in front of me. I slammed on the brakes, but my tires were compromised on the wet tarmac.
 
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/_MG_0418-1400.jpg" title="" caption="Womp, womp." %}
 
@@ -98,7 +98,7 @@ This was all pretty lame, but the shop did go out of their way offering to make 
 
 And this is where the car sat in mid 2017. Two years of ownership and it'd been in a light accident and had few but semi-aggressive modifications done to it. The car had seen half a dozen or so autocross events and somewhere around 25,000 miles. I loved the car and felt like I was just getting started.
 
-{% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/20170520_192553-1400.jpg" title="" caption="9.5 inch wide wheels means I got bumped from STX to CSP in SCCA class rulings" %}
+{% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/20170520_192553-1400.jpg" title="" caption="9.5 inch wide wheels means I got bumped from STX to CSP in SCCA class rulings. 69 wouldn't have necessarily been my first choice, but this set of magnetic numbers was virtually free to me." %}
 
 That's all for this one. Part 2 will come soon. Thanks for reading! ❤
 
@@ -106,7 +106,7 @@ That's all for this one. Part 2 will come soon. Thanks for reading! ❤
 
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/29767515524/in/album-72157673989873132/" imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/_MG_0070-1400.jpg" title="" caption="Andrew again in the background, working on Suki, seemingly with the whole dashboard out this time" %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/20170722_124754-1400.jpg" title="" caption="David, Matt, and I paddocked at Autocross" %}
-{% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/20170416_184416-1400.jpg" title="" caption="One of my fondest memories with the car was taking my grandma to the Easter Cantata. She was a good sport about it being low." %}
+{% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/20170416_184416-1400.jpg" title="" caption="One of my fondest memories with the car was taking my grandma to her church's Easter Cantata. She was a great sport about it being low." %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/Snapchat-1566394961-1400.jpg" title="" caption="Working on my car wherever there was space - in this case, rolling my fenders. I nailed it on the passenger side but did pretty bad on the driver's side" %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/Snapchat-713225990-1400.jpg" title="" caption="Owning only one vehicle and having a roommate who only has a Miata means you get yourself in tricky situations when you need to move big objects - like this cat tree I got off Craigslist" %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/Snapchat-537790474-1400.jpg" title="" caption="Zack riding shotty while I put in some laps at autocross" %}
