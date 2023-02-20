@@ -20,7 +20,7 @@ In mid-2018 my Scion FR-S (more on this car another day, I promise) needed some 
 
 Nightrun Garage is a shop located in Ashland (just north of Richmond) ran by Ben Willis and Chris Larson, and while not *exclusively* a Toyota shop, most of their work is on Toyota and Lexus cars. They are perhaps most known for their expertise with cars powered by Toyota's legendary JZ family of engines found in third and fourth generation Toyota Supras.
 
-Speaking of the JZ family of engines - remember that time I wrote about us [purchasing a 2JZ-GTE from JSpec Auto](https://gkubed.com/2019/01/13/jspec-auto-sports-purchasing-a-2jzgte/) for David's IS300? Well, wouldn't you know it, the engine is in the car and it's just getting finished up at Nightrun!
+Speaking of the JZ family of engines - remember that time I wrote about us [purchasing a 2JZ-GTE from JSpec Auto](../../../../2019/01/13/jspec-auto-sports-purchasing-a-2jzgte/) for David's IS300? Well, wouldn't you know it, the engine is in the car and it's just getting finished up at Nightrun!
 
 {% include image_full.html imageurl="https://i.guyon.io/2021-10-30-nightrun-garage-open-house-2021/_MG_1377-1400.jpg" title="" caption="" %}
 
