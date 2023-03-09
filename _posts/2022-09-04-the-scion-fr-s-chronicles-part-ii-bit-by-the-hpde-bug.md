@@ -119,3 +119,9 @@ Tune in next time for Part III! Thanks for reading! ❤
 {% include image_full.html url="" imageurl="https://i.guyon.io/2022-09-04-the-scion-fr-s-chronicles-part-ii-bit-by-the-hpde-bug/IMG_4732-1400.jpg " title="" caption="This is Russell, my dash dino who judged my driving. He eventually escaped via the passenger window." %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-09-04-the-scion-fr-s-chronicles-part-ii-bit-by-the-hpde-bug/48694117372_325289303c_o-1400.jpg" title="" caption="Nobody cares how dirty your car is if it's a racecar. Photo by Mike Lee." %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-09-04-the-scion-fr-s-chronicles-part-ii-bit-by-the-hpde-bug/48693943021_cd17078296_o-1400.jpg" title="" caption="Another photo by Mike Lee. Andrew can be seen in his NB2 Miata in the background." %}
+
+## FR-S Chronicles Index
+
+* [Part I - Early Ownership](../../../../2022/04/19/the-scion-fr-s-chronicles-part-i-early-ownership/)
+* [Part II - Bit by the HPDE Bug](../../../../2022/09/04/the-scion-fr-s-chronicles-part-ii-bit-by-the-hpde-bug/)
+* [Part III - The Incident](../../../../2023/03/07/the-scion-fr-s-chronicles-part-iii-the-incident/)

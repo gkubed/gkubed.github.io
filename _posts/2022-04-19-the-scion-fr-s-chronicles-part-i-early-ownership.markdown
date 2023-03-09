@@ -110,3 +110,9 @@ That's all for this one. Part 2 will come soon. Thanks for reading! ❤
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/Snapchat-1566394961-1400.jpg" title="" caption="Working on my car wherever there was space - in this case, rolling my fenders. I nailed it on the passenger side but did pretty bad on the driver's side" %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/Snapchat-713225990-1400.jpg" title="" caption="Owning only one vehicle and having a roommate who only has a Miata means you get yourself in tricky situations when you need to move big objects - like this cat tree I got off Craigslist" %}
 {% include image_full.html imageurl="https://i.guyon.io/2022-04-19-the-scion-fr-s-chronicles-part-1-early-ownership/Snapchat-537790474-1400.jpg" title="" caption="Zack riding shotty while I put in some laps at autocross" %}
+
+## FR-S Chronicles Index
+
+* [Part I - Early Ownership](../../../../2022/04/19/the-scion-fr-s-chronicles-part-i-early-ownership/)
+* [Part II - Bit by the HPDE Bug](../../../../2022/09/04/the-scion-fr-s-chronicles-part-ii-bit-by-the-hpde-bug/)
+* [Part III - The Incident](../../../../2023/03/07/the-scion-fr-s-chronicles-part-iii-the-incident/)
