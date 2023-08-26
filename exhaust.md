@@ -16,6 +16,7 @@ Below are a collection of exhaust clips on the ZC6/ZN6 platform. To submit more 
 | JDL 4-1 EL catless | OEM | HKS Dual Resonated | | Greddy Revolution RS | [Link](https://www.youtube.com/watch?v=tdu2LHGLE9o) |
 | JDL UEL catless | OEM | Invidia catted |  | MXP SP | [Link](https://www.youtube.com/watch?v=E4CShKL51dI) |
 | JDL UEL catless | OEM | OEM |  | Dezod Motorsports Dual Exit | [Link](https://www.youtube.com/watch?v=BxtnoIFRc-o) |
+| JDL UEL catted | OEM | OEM | | Invidia Q300 | [Link](https://www.youtube.com/watch?v=qwyxEo5KXyM) |
 | MXP UEL catless | MXP Overpipe | OEM |  | MXP SP Quad Tip | [Link](https://www.youtube.com/watch?v=GZ-E6Z5y7l4) |
 | OEM | Nameless | Nameless catless w/ resonator | OEM | Nameless 2.5" w/ 5" mufflers | [Link](https://www.youtube.com/watch?v=FoYDI-veFD8) |
 | OEM | OEM | OEM |  | MXP Comp RS | [Link](https://www.youtube.com/watch?v=bT9t2f1wsMs) |
