@@ -116,3 +116,4 @@ Some things you just don't let go of. ❤
 * [Part I - Early Ownership](../../../../2022/04/19/the-scion-fr-s-chronicles-part-i-early-ownership/)
 * [Part II - Bit by the HPDE Bug](../../../../2022/09/04/the-scion-fr-s-chronicles-part-ii-bit-by-the-hpde-bug/)
 * [Part III - The Incident](../../../../2023/03/07/the-scion-fr-s-chronicles-part-iii-the-incident/)
+* [Part IV - The Return](../../../../2023/11/18/the-scion-fr-s-chronicles-part-iv-the-return/)
