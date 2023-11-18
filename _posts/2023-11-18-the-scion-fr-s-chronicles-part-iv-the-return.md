@@ -47,7 +47,7 @@ While I was filled with excitement, I knew I wouldn't be driving it any time soo
 
 The first step was getting my Virginia vehicle title straight. Before I could apply to have a rebuilt title replace my salvage title, I had to get the car inspected. Since the car wasn't technically road-legal, I opted to get an inspection at the closest place to my house I could find. Even in this poorly-aligned state, if was fun to get it back on the road again for a short trip.
 
-It passed the Virginia State Inspection without issue, and in an attempt to move the process along as fast as possible, I delivered my application and payment to have my rebuilt title examination performed directly to the DMV office that evening.
+It passed the Virginia State Inspection without issue, and in an attempt to move the process along as fast as possible, I delivered my application and payment to have my rebuilt title examination performed directly to the DMV office downtown that evening rather than waiting for it to make its way through the postal system.
 
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/52752179404/in/album-72157673989873132/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/_MG_1902.jpg" title="" caption="Flawless paint and rusty rotors hint that the car didn't see much movement" %}
 
@@ -115,7 +115,7 @@ Happy to report the car still shreds the back roads, and I'm amazed at Ruby's su
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/53336907732/in/album-72177720312743191/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006618.jpg" title="" caption="" %}
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/53337784286/in/album-72177720312743191/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006722.jpg" title="" caption="Not apologizing for train content" %}
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/53338008843/in/album-72157673989873132/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006764.jpg" title="" caption="" %}
-{% include image_full.html url="https://www.flickr.com/photos/gkubed/53336902582/in/album-72157673989873132/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006772.jpg" title="" caption="The abandoned Inn at Afton makes a graet backdrop..." %}
+{% include image_full.html url="https://www.flickr.com/photos/gkubed/53336902582/in/album-72157673989873132/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006772.jpg" title="" caption="The abandoned Inn at Afton makes a great backdrop..." %}
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/53337778691/in/album-72177720312743191/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006789.jpg" title="" caption="...but it's got nothing on the Shenandoah Valley" %}
 {% include image_full.html url="https://www.flickr.com/photos/gkubed/53338003013/in/album-72177720312743191/" imageurl="https://f002.backblazeb2.com/file/gkubed/2023-11-18-the-scion-fr-s-chronicles-part-iv-the-return/R0006827.jpg" title="" caption="" %}
 
