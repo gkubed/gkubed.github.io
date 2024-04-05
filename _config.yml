@@ -32,6 +32,8 @@ navigation:
   url: /
 - text: About
   url: /about/
+- text: Pages
+  url: /pages/
 - text: Archives
   url: /tags/
 
