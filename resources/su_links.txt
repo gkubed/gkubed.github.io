@@ -24,6 +24,7 @@ https://www.playcardle.com/
 # Random
 https://1j01.github.io/pipes/
 https://comics.ha.com/itm/video-games/nintendo/nintendo-play-station-super-nes-cd-rom-prototype-sony-and-nintendo-c-1992/a/7224-93060.s?ic4=GalleryView-ShortDescription-071515
+https://github.com/syxanash/awesome-web-desktops
 https://jivx.com/densha
 https://jspaint.app/
 https://natethesnake.com/
