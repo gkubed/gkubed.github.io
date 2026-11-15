@@ -7,19 +7,21 @@ https://wh0.github.io/2020/01/02/scissors.html
 https://manuals.sucatisse.com/mx5-na/
 https://www.andrewturnbull.net/plates/sticker.html
 https://www.ricksplates.com/virginia/vapass1.htm#intro
+https://www.willtheyfit.com/
 
 # Biblical/Christianity
 https://www.bible.com/bible/76/GEN.1.HPB
-https://www.esv.org/resources/esv-global-study-bible/concordance/
 
 # Games
 https://gameaboutsquares.com/
 https://geotastic.net/home
+https://regexcrossword.com/
 https://semantle.com/
 https://tankpit.com/
 https://www.playcardle.com/
 
-# Projects
+# Privacy
+https://inteltechniques.com/requests
 
 # Random
 https://1j01.github.io/pipes/
